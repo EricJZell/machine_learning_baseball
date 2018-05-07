@@ -26,8 +26,18 @@ def index():
 
 @app.route('/game/<int:game_id>')
 def game(game_id):
-    GameID = game_id
-    return render_template("game.html", GameID=GameID)
+    con = sqlite3.connect('mlb_stats.db')
+    con.row_factory = sqlite3.Row
+    cur = con.cursor()
+    cur.execute("SELECT GameID, DateTime, "
+        "HomeTeam.WikipediaLogoUrl as HomeTeamLogo, HomeTeam.Name as HomeTeamName, "
+        "AwayTeam.WikipediaLogoUrl as AwayTeamLogo, AwayTeam.Name as AwayTeamName "
+        "FROM games "
+        "JOIN Teams as HomeTeam ON HomeTeamID = HomeTeam.TeamID "
+        "JOIN Teams as AwayTeam ON AwayTeamID = AwayTeam.TeamID "
+        "WHERE GameID=? ",([game_id]))
+    game = cur.fetchone()
+    return render_template("game.html", game=game)
 
 if __name__ == "__main__":
     app.run()
