@@ -7,7 +7,7 @@ class UpcomingGame:
         self.home_starter = home_starter
         self.away_starter = away_starter
 
-def upcoming_games():
+def upcoming_games(date):
     # can I use this data? https://swishanalytics.com/optimus/mlb/batter-vs-pitcher-stats?date=2018-04-30
     # use the MLB API available through https://www.mysportsfeeds.com to gather data
     return [

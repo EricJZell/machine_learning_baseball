@@ -1,11 +1,19 @@
 {% extends "layout.html" %}
 
 {% block main %}
-    <div>Upcoming Major League Baseball Games:</div>
-    {% for game in upcoming_games %}
+    <div>Today's Major League Baseball Games:</div>
+    {% for game in games %}
         <div>
-          <h3>{{game.time}}</h3>
-          <h6>{{game.away_team}} at {{game.home_team}}</h6>
+          <h6>{{datetime.strptime(game["DateTime"], '%Y-%m-%dT%H:%M:%S').strftime('%-I:%M')}}</h3>
+
+          <h6>
+            <img src='{{game["AwayTeamLogo"]}}' alt="Away Logo" height="40" width="40">
+            {{game["AwayTeamName"]}}
+          </h6>
+          <h6>
+            <img src='{{game["HomeTeamLogo"]}}' alt="Home Logo" height="40" width="40">
+            {{game["HomeTeamName"]}}
+          </h6>
         </div>
     {% endfor %}
 
