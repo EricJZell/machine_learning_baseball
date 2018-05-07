@@ -5,7 +5,6 @@
     {% for game in games %}
         <div>
           <h6>{{datetime.strptime(game["DateTime"], '%Y-%m-%dT%H:%M:%S').strftime('%-I:%M')}}</h3>
-
           <h6>
             <img src='{{game["AwayTeamLogo"]}}' alt="Away Logo" height="40" width="40">
             {{game["AwayTeamName"]}}
@@ -14,6 +13,7 @@
             <img src='{{game["HomeTeamLogo"]}}' alt="Home Logo" height="40" width="40">
             {{game["HomeTeamName"]}}
           </h6>
+          <a href='{{"/game/{}".format(game["GameID"])}}'>Analyze Matchups</a>
         </div>
     {% endfor %}
 

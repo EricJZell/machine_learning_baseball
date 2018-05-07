@@ -24,5 +24,10 @@ def index():
     #     game["Time"] = datetime.strptime(game["DateTime"], '%Y-%m-%dT%H:%M:%S').strftime('%-I:%M')
     return render_template("index.html", name="Eric", games=games, datetime=datetime)
 
+@app.route('/game/<int:game_id>')
+def game(game_id):
+    GameID = game_id
+    return render_template("game.html", GameID=GameID)
+
 if __name__ == "__main__":
     app.run()
