@@ -1,0 +1,3962 @@
+[
+    {
+        "batter": " Lorenzo Cain",
+        "pitcher": " Jose Quintana",
+        "plate_appearances": "71",
+        "avg": ".294",
+        "obp": ".324",
+        "slg": ".412"
+    },
+    {
+        "batter": " Chase Utley",
+        "pitcher": " Johnny Cueto",
+        "plate_appearances": "58",
+        "avg": ".283",
+        "obp": ".345",
+        "slg": ".472"
+    },
+    {
+        "batter": " Matt Kemp",
+        "pitcher": " Johnny Cueto",
+        "plate_appearances": "41",
+        "avg": ".308",
+        "obp": ".342",
+        "slg": ".590"
+    },
+    {
+        "batter": " Justin Turner",
+        "pitcher": " Johnny Cueto",
+        "plate_appearances": "34",
+        "avg": ".355",
+        "obp": ".394",
+        "slg": ".548"
+    },
+    {
+        "batter": " Corey Seager",
+        "pitcher": " Johnny Cueto",
+        "plate_appearances": "35",
+        "avg": ".333",
+        "obp": ".343",
+        "slg": ".546"
+    },
+    {
+        "batter": " Adam Jones",
+        "pitcher": " Francisco Liriano",
+        "plate_appearances": "31",
+        "avg": ".323",
+        "obp": ".323",
+        "slg": ".645"
+    },
+    {
+        "batter": " Robinson Cano",
+        "pitcher": " Carlos Carrasco",
+        "plate_appearances": "26",
+        "avg": ".375",
+        "obp": ".385",
+        "slg": ".708"
+    },
+    {
+        "batter": " Ender Inciarte",
+        "pitcher": " Nick Pivetta",
+        "plate_appearances": "17",
+        "avg": ".571",
+        "obp": ".588",
+        "slg": ".571"
+    },
+    {
+        "batter": " Odubel Herrera",
+        "pitcher": " Mike Foltynewicz",
+        "plate_appearances": "26",
+        "avg": ".320",
+        "obp": ".346",
+        "slg": ".520"
+    },
+    {
+        "batter": " Justin Smoak",
+        "pitcher": " Bartolo Colon",
+        "plate_appearances": "35",
+        "avg": ".258",
+        "obp": ".343",
+        "slg": ".548"
+    },
+    {
+        "batter": " Jose Altuve",
+        "pitcher": " Daniel Mengden",
+        "plate_appearances": "14",
+        "avg": ".500",
+        "obp": ".500",
+        "slg": ".786"
+    },
+    {
+        "batter": " Kevin Pillar",
+        "pitcher": " Bartolo Colon",
+        "plate_appearances": "15",
+        "avg": ".500",
+        "obp": ".533",
+        "slg": ".929"
+    },
+    {
+        "batter": " Buster Posey",
+        "pitcher": " Alex Wood",
+        "plate_appearances": "22",
+        "avg": ".333",
+        "obp": ".364",
+        "slg": ".429"
+    },
+    {
+        "batter": " Howie Kendrick",
+        "pitcher": " Patrick Corbin",
+        "plate_appearances": "23",
+        "avg": ".318",
+        "obp": ".348",
+        "slg": ".455"
+    },
+    {
+        "batter": " Nelson Cruz",
+        "pitcher": " Carlos Carrasco",
+        "plate_appearances": "23",
+        "avg": ".318",
+        "obp": ".348",
+        "slg": ".682"
+    },
+    {
+        "batter": " Yasmani Grandal",
+        "pitcher": " Johnny Cueto",
+        "plate_appearances": "33",
+        "avg": ".233",
+        "obp": ".303",
+        "slg": ".333"
+    },
+    {
+        "batter": " Yonder Alonso",
+        "pitcher": " Mike Leake",
+        "plate_appearances": "16",
+        "avg": ".429",
+        "obp": ".438",
+        "slg": ".786"
+    },
+    {
+        "batter": " Brandon Crawford",
+        "pitcher": " Alex Wood",
+        "plate_appearances": "17",
+        "avg": ".400",
+        "obp": ".471",
+        "slg": ".867"
+    },
+    {
+        "batter": " Maikel Franco",
+        "pitcher": " Mike Foltynewicz",
+        "plate_appearances": "17",
+        "avg": ".375",
+        "obp": ".412",
+        "slg": ".750"
+    },
+    {
+        "batter": " Jason Kipnis",
+        "pitcher": " Mike Leake",
+        "plate_appearances": "25",
+        "avg": ".250",
+        "obp": ".280",
+        "slg": ".292"
+    },
+    {
+        "batter": " Carlos Correa",
+        "pitcher": " Daniel Mengden",
+        "plate_appearances": "14",
+        "avg": ".500",
+        "obp": ".643",
+        "slg": ".900"
+    },
+    {
+        "batter": " Jean Segura",
+        "pitcher": " Carlos Carrasco",
+        "plate_appearances": "12",
+        "avg": ".417",
+        "obp": ".417",
+        "slg": ".750"
+    },
+    {
+        "batter": " Yangervis Solarte",
+        "pitcher": " Bartolo Colon",
+        "plate_appearances": "12",
+        "avg": ".417",
+        "obp": ".417",
+        "slg": ".417"
+    },
+    {
+        "batter": " Cody Bellinger",
+        "pitcher": " Johnny Cueto",
+        "plate_appearances": "16",
+        "avg": ".313",
+        "obp": ".313",
+        "slg": ".438"
+    },
+    {
+        "batter": " C.J. Cron",
+        "pitcher": " David Price",
+        "plate_appearances": "18",
+        "avg": ".278",
+        "obp": ".278",
+        "slg": ".389"
+    },
+    {
+        "batter": " Cesar Hernandez",
+        "pitcher": " Mike Foltynewicz",
+        "plate_appearances": "26",
+        "avg": ".250",
+        "obp": ".423",
+        "slg": ".400"
+    },
+    {
+        "batter": " Brad Miller",
+        "pitcher": " David Price",
+        "plate_appearances": "31",
+        "avg": ".167",
+        "obp": ".194",
+        "slg": ".233"
+    },
+    {
+        "batter": " Greg Garcia",
+        "pitcher": " Trevor Williams",
+        "plate_appearances": "6",
+        "avg": ".667",
+        "obp": ".667",
+        "slg": ".833"
+    },
+    {
+        "batter": " Cody Bellinger",
+        "pitcher": " Chris Stratton",
+        "plate_appearances": "8",
+        "avg": ".500",
+        "obp": ".500",
+        "slg": ".875"
+    },
+    {
+        "batter": " Marcus Semien",
+        "pitcher": " Lance McCullers Jr.",
+        "plate_appearances": "11",
+        "avg": ".444",
+        "obp": ".546",
+        "slg": ".556"
+    },
+    {
+        "batter": " Jonathan Schoop",
+        "pitcher": " Francisco Liriano",
+        "plate_appearances": "10",
+        "avg": ".444",
+        "obp": ".500",
+        "slg": ".667"
+    },
+    {
+        "batter": " Mike Trout",
+        "pitcher": " Masahiro Tanaka",
+        "plate_appearances": "12",
+        "avg": ".400",
+        "obp": ".500",
+        "slg": ".400"
+    },
+    {
+        "batter": " Bryce Harper",
+        "pitcher": " Patrick Corbin",
+        "plate_appearances": "11",
+        "avg": ".400",
+        "obp": ".455",
+        "slg": ".600"
+    },
+    {
+        "batter": " Trey Mancini",
+        "pitcher": " Francisco Liriano",
+        "plate_appearances": "12",
+        "avg": ".364",
+        "obp": ".417",
+        "slg": ".727"
+    },
+    {
+        "batter": " Mike Moustakas",
+        "pitcher": " Dylan Covey",
+        "plate_appearances": "11",
+        "avg": ".364",
+        "obp": ".364",
+        "slg": ".455"
+    },
+    {
+        "batter": " Wilson Ramos",
+        "pitcher": " David Price",
+        "plate_appearances": "12",
+        "avg": ".364",
+        "obp": ".417",
+        "slg": ".727"
+    },
+    {
+        "batter": " Ryon Healy",
+        "pitcher": " Carlos Carrasco",
+        "plate_appearances": "13",
+        "avg": ".333",
+        "obp": ".385",
+        "slg": ".583"
+    },
+    {
+        "batter": " Alex Gordon",
+        "pitcher": " Dylan Covey",
+        "plate_appearances": "12",
+        "avg": ".333",
+        "obp": ".333",
+        "slg": ".667"
+    },
+    {
+        "batter": " Jonathan Villar",
+        "pitcher": " Jose Quintana",
+        "plate_appearances": "14",
+        "avg": ".333",
+        "obp": ".357",
+        "slg": ".417"
+    },
+    {
+        "batter": " Alcides Escobar",
+        "pitcher": " Dylan Covey",
+        "plate_appearances": "12",
+        "avg": ".333",
+        "obp": ".333",
+        "slg": ".417"
+    },
+    {
+        "batter": " Salvador Perez",
+        "pitcher": " Dylan Covey",
+        "plate_appearances": "14",
+        "avg": ".333",
+        "obp": ".429",
+        "slg": ".500"
+    },
+    {
+        "batter": " Ryan Zimmerman",
+        "pitcher": " Patrick Corbin",
+        "plate_appearances": "13",
+        "avg": ".308",
+        "obp": ".308",
+        "slg": ".615"
+    },
+    {
+        "batter": " Shin-Soo Choo",
+        "pitcher": " Jaime Garcia",
+        "plate_appearances": "14",
+        "avg": ".286",
+        "obp": ".286",
+        "slg": ".500"
+    },
+    {
+        "batter": " Ichiro Suzuki",
+        "pitcher": " Carlos Carrasco",
+        "plate_appearances": "15",
+        "avg": ".267",
+        "obp": ".267",
+        "slg": ".467"
+    },
+    {
+        "batter": " Manny Machado",
+        "pitcher": " Francisco Liriano",
+        "plate_appearances": "17",
+        "avg": ".267",
+        "obp": ".353",
+        "slg": ".267"
+    },
+    {
+        "batter": " Curtis Granderson",
+        "pitcher": " Bartolo Colon",
+        "plate_appearances": "17",
+        "avg": ".250",
+        "obp": ".294",
+        "slg": ".563"
+    },
+    {
+        "batter": " Hernan Perez",
+        "pitcher": " Jose Quintana",
+        "plate_appearances": "17",
+        "avg": ".235",
+        "obp": ".235",
+        "slg": ".294"
+    },
+    {
+        "batter": " Michael Brantley",
+        "pitcher": " Mike Leake",
+        "plate_appearances": "20",
+        "avg": ".235",
+        "obp": ".350",
+        "slg": ".412"
+    },
+    {
+        "batter": " Luis Valbuena",
+        "pitcher": " Masahiro Tanaka",
+        "plate_appearances": "18",
+        "avg": ".222",
+        "obp": ".222",
+        "slg": ".333"
+    },
+    {
+        "batter": " Hunter Pence",
+        "pitcher": " Alex Wood",
+        "plate_appearances": "20",
+        "avg": ".222",
+        "obp": ".300",
+        "slg": ".278"
+    },
+    {
+        "batter": " Brandon Belt",
+        "pitcher": " Alex Wood",
+        "plate_appearances": "20",
+        "avg": ".211",
+        "obp": ".250",
+        "slg": ".316"
+    },
+    {
+        "batter": " Yasiel Puig",
+        "pitcher": " Johnny Cueto",
+        "plate_appearances": "24",
+        "avg": ".191",
+        "obp": ".292",
+        "slg": ".286"
+    },
+    {
+        "batter": " Mark Trumbo",
+        "pitcher": " Francisco Liriano",
+        "plate_appearances": "27",
+        "avg": ".167",
+        "obp": ".259",
+        "slg": ".458"
+    },
+    {
+        "batter": " Andrew McCutchen",
+        "pitcher": " Alex Wood",
+        "plate_appearances": "26",
+        "avg": ".167",
+        "obp": ".231",
+        "slg": ".333"
+    },
+    {
+        "batter": " Kendrys Morales",
+        "pitcher": " Bartolo Colon",
+        "plate_appearances": "32",
+        "avg": ".129",
+        "obp": ".156",
+        "slg": ".226"
+    },
+    {
+        "batter": " Daniel Palka",
+        "pitcher": " Trevor Oaks",
+        "plate_appearances": "3",
+        "avg": "1.000",
+        "obp": "1.000",
+        "slg": "1.333"
+    },
+    {
+        "batter": " Chase Utley",
+        "pitcher": " Chris Stratton",
+        "plate_appearances": "6",
+        "avg": ".750",
+        "obp": ".833",
+        "slg": "1.250"
+    },
+    {
+        "batter": " Alex Bregman",
+        "pitcher": " Daniel Mengden",
+        "plate_appearances": "5",
+        "avg": ".750",
+        "obp": ".800",
+        "slg": "1.000"
+    },
+    {
+        "batter": " Andrew Benintendi",
+        "pitcher": " Yonny Chirinos",
+        "plate_appearances": "4",
+        "avg": ".750",
+        "obp": ".750",
+        "slg": "1.000"
+    },
+    {
+        "batter": " Ryan Flaherty",
+        "pitcher": " Nick Pivetta",
+        "plate_appearances": "6",
+        "avg": ".600",
+        "obp": ".667",
+        "slg": ".800"
+    },
+    {
+        "batter": " Daniel Murphy",
+        "pitcher": " Patrick Corbin",
+        "plate_appearances": "5",
+        "avg": ".600",
+        "obp": ".600",
+        "slg": ".600"
+    },
+    {
+        "batter": " Ben Gamel",
+        "pitcher": " Carlos Carrasco",
+        "plate_appearances": "5",
+        "avg": ".600",
+        "obp": ".600",
+        "slg": "1.600"
+    },
+    {
+        "batter": " Scott Schebler",
+        "pitcher": " Jake Odorizzi",
+        "plate_appearances": "6",
+        "avg": ".500",
+        "obp": ".500",
+        "slg": "1.667"
+    },
+    {
+        "batter": " Daniel Descalso",
+        "pitcher": " Jeremy Hellickson",
+        "plate_appearances": "6",
+        "avg": ".500",
+        "obp": ".500",
+        "slg": ".667"
+    },
+    {
+        "batter": " Jose Martinez",
+        "pitcher": " Trevor Williams",
+        "plate_appearances": "6",
+        "avg": ".500",
+        "obp": ".500",
+        "slg": ".667"
+    },
+    {
+        "batter": " Nick Hundley",
+        "pitcher": " Alex Wood",
+        "plate_appearances": "8",
+        "avg": ".429",
+        "obp": ".500",
+        "slg": ".571"
+    },
+    {
+        "batter": " Paul DeJong",
+        "pitcher": " Trevor Williams",
+        "plate_appearances": "7",
+        "avg": ".429",
+        "obp": ".429",
+        "slg": "1.000"
+    },
+    {
+        "batter": " Matt Carpenter",
+        "pitcher": " Trevor Williams",
+        "plate_appearances": "12",
+        "avg": ".375",
+        "obp": ".583",
+        "slg": ".875"
+    },
+    {
+        "batter": " Miguel Cabrera",
+        "pitcher": " Andrew Cashner",
+        "plate_appearances": "10",
+        "avg": ".333",
+        "obp": ".400",
+        "slg": ".778"
+    },
+    {
+        "batter": " Russell Martin",
+        "pitcher": " Bartolo Colon",
+        "plate_appearances": "9",
+        "avg": ".333",
+        "obp": ".333",
+        "slg": ".556"
+    },
+    {
+        "batter": " Dansby Swanson",
+        "pitcher": " Nick Pivetta",
+        "plate_appearances": "9",
+        "avg": ".333",
+        "obp": ".333",
+        "slg": ".333"
+    },
+    {
+        "batter": " Leonys Martin",
+        "pitcher": " Andrew Cashner",
+        "plate_appearances": "11",
+        "avg": ".300",
+        "obp": ".364",
+        "slg": ".300"
+    },
+    {
+        "batter": " Jose Ramirez",
+        "pitcher": " Mike Leake",
+        "plate_appearances": "11",
+        "avg": ".300",
+        "obp": ".364",
+        "slg": ".600"
+    },
+    {
+        "batter": " Danny Valencia",
+        "pitcher": " Francisco Liriano",
+        "plate_appearances": "11",
+        "avg": ".300",
+        "obp": ".364",
+        "slg": ".300"
+    },
+    {
+        "batter": " Chris Taylor",
+        "pitcher": " Chris Stratton",
+        "plate_appearances": "11",
+        "avg": ".300",
+        "obp": ".364",
+        "slg": ".700"
+    },
+    {
+        "batter": " Chris Davis",
+        "pitcher": " Francisco Liriano",
+        "plate_appearances": "11",
+        "avg": ".273",
+        "obp": ".273",
+        "slg": ".546"
+    },
+    {
+        "batter": " Francisco Lindor",
+        "pitcher": " Mike Leake",
+        "plate_appearances": "14",
+        "avg": ".250",
+        "obp": ".357",
+        "slg": ".250"
+    },
+    {
+        "batter": " Albert Pujols",
+        "pitcher": " Masahiro Tanaka",
+        "plate_appearances": "15",
+        "avg": ".250",
+        "obp": ".400",
+        "slg": ".250"
+    },
+    {
+        "batter": " Khris Davis",
+        "pitcher": " Lance McCullers Jr.",
+        "plate_appearances": "12",
+        "avg": ".250",
+        "obp": ".250",
+        "slg": ".500"
+    },
+    {
+        "batter": " Nick Markakis",
+        "pitcher": " Nick Pivetta",
+        "plate_appearances": "15",
+        "avg": ".250",
+        "obp": ".400",
+        "slg": ".500"
+    },
+    {
+        "batter": " Chris Taylor",
+        "pitcher": " Johnny Cueto",
+        "plate_appearances": "13",
+        "avg": ".250",
+        "obp": ".308",
+        "slg": ".333"
+    },
+    {
+        "batter": " Ian Desmond",
+        "pitcher": " Wei-Yin Chen",
+        "plate_appearances": "14",
+        "avg": ".231",
+        "obp": ".286",
+        "slg": ".385"
+    },
+    {
+        "batter": " Chase Headley",
+        "pitcher": " Jason Vargas",
+        "plate_appearances": "13",
+        "avg": ".231",
+        "obp": ".231",
+        "slg": ".231"
+    },
+    {
+        "batter": " Adeiny Hechavarria",
+        "pitcher": " David Price",
+        "plate_appearances": "15",
+        "avg": ".214",
+        "obp": ".267",
+        "slg": ".214"
+    },
+    {
+        "batter": " Josh Donaldson",
+        "pitcher": " Bartolo Colon",
+        "plate_appearances": "14",
+        "avg": ".214",
+        "obp": ".214",
+        "slg": ".500"
+    },
+    {
+        "batter": " Yadier Molina",
+        "pitcher": " Trevor Williams",
+        "plate_appearances": "14",
+        "avg": ".214",
+        "obp": ".214",
+        "slg": ".429"
+    },
+    {
+        "batter": " Kevin Kiermaier",
+        "pitcher": " David Price",
+        "plate_appearances": "15",
+        "avg": ".214",
+        "obp": ".267",
+        "slg": ".500"
+    },
+    {
+        "batter": " Kyle Seager",
+        "pitcher": " Carlos Carrasco",
+        "plate_appearances": "17",
+        "avg": ".188",
+        "obp": ".235",
+        "slg": ".438"
+    },
+    {
+        "batter": " Ian Kinsler",
+        "pitcher": " Masahiro Tanaka",
+        "plate_appearances": "18",
+        "avg": ".177",
+        "obp": ".222",
+        "slg": ".412"
+    },
+    {
+        "batter": " Matt Duffy",
+        "pitcher": " David Price",
+        "plate_appearances": "19",
+        "avg": ".167",
+        "obp": ".211",
+        "slg": ".222"
+    },
+    {
+        "batter": " Ryan Braun",
+        "pitcher": " Jose Quintana",
+        "plate_appearances": "19",
+        "avg": ".158",
+        "obp": ".158",
+        "slg": ".158"
+    },
+    {
+        "batter": " Tomas Telis",
+        "pitcher": " German Marquez",
+        "plate_appearances": "2",
+        "avg": "1.000",
+        "obp": "1.000",
+        "slg": "1.000"
+    },
+    {
+        "batter": " Aaron Judge",
+        "pitcher": " Garrett Richards",
+        "plate_appearances": "2",
+        "avg": "1.000",
+        "obp": "1.000",
+        "slg": "1.500"
+    },
+    {
+        "batter": " Freddy Galvis",
+        "pitcher": " Jason Vargas",
+        "plate_appearances": "2",
+        "avg": "1.000",
+        "obp": "1.000",
+        "slg": "1.000"
+    },
+    {
+        "batter": " Leury Garcia",
+        "pitcher": " Trevor Oaks",
+        "plate_appearances": "2",
+        "avg": "1.000",
+        "obp": "1.000",
+        "slg": "1.000"
+    },
+    {
+        "batter": " Carlos Gonzalez",
+        "pitcher": " Wei-Yin Chen",
+        "plate_appearances": "2",
+        "avg": "1.000",
+        "obp": "1.000",
+        "slg": "1.000"
+    },
+    {
+        "batter": " Mitch Garver",
+        "pitcher": " Sal Romano",
+        "plate_appearances": "2",
+        "avg": "1.000",
+        "obp": "1.000",
+        "slg": "3.000"
+    },
+    {
+        "batter": " Adam Frazier",
+        "pitcher": " Jack Flaherty",
+        "plate_appearances": "3",
+        "avg": "1.000",
+        "obp": "1.000",
+        "slg": "1.000"
+    },
+    {
+        "batter": " Jose Pirela",
+        "pitcher": " Jason Vargas",
+        "plate_appearances": "3",
+        "avg": "1.000",
+        "obp": "1.000",
+        "slg": "1.000"
+    },
+    {
+        "batter": " Matt Davidson",
+        "pitcher": " Trevor Oaks",
+        "plate_appearances": "3",
+        "avg": ".667",
+        "obp": ".667",
+        "slg": ".667"
+    },
+    {
+        "batter": " Anthony Santander",
+        "pitcher": " Francisco Liriano",
+        "plate_appearances": "3",
+        "avg": ".667",
+        "obp": ".667",
+        "slg": "1.333"
+    },
+    {
+        "batter": " Scott Kingery",
+        "pitcher": " Mike Foltynewicz",
+        "plate_appearances": "3",
+        "avg": ".667",
+        "obp": ".667",
+        "slg": ".667"
+    },
+    {
+        "batter": " Tim Anderson",
+        "pitcher": " Trevor Oaks",
+        "plate_appearances": "3",
+        "avg": ".667",
+        "obp": ".667",
+        "slg": ".667"
+    },
+    {
+        "batter": " Gregor Blanco",
+        "pitcher": " Walker Buehler",
+        "plate_appearances": "3",
+        "avg": ".667",
+        "obp": ".667",
+        "slg": ".667"
+    },
+    {
+        "batter": " Eddie Rosario",
+        "pitcher": " Sal Romano",
+        "plate_appearances": "3",
+        "avg": ".667",
+        "obp": ".667",
+        "slg": ".667"
+    },
+    {
+        "batter": " Devon Travis",
+        "pitcher": " Bartolo Colon",
+        "plate_appearances": "3",
+        "avg": ".667",
+        "obp": ".667",
+        "slg": "1.000"
+    },
+    {
+        "batter": " Yolmer Sanchez",
+        "pitcher": " Trevor Oaks",
+        "plate_appearances": "3",
+        "avg": ".667",
+        "obp": ".667",
+        "slg": "1.000"
+    },
+    {
+        "batter": " A.J. Ellis",
+        "pitcher": " Jason Vargas",
+        "plate_appearances": "3",
+        "avg": ".667",
+        "obp": ".667",
+        "slg": ".667"
+    },
+    {
+        "batter": " Kolten Wong",
+        "pitcher": " Trevor Williams",
+        "plate_appearances": "5",
+        "avg": ".667",
+        "obp": ".750",
+        "slg": ".667"
+    },
+    {
+        "batter": " Jake Lamb",
+        "pitcher": " Jeremy Hellickson",
+        "plate_appearances": "3",
+        "avg": ".667",
+        "obp": ".667",
+        "slg": "1.667"
+    },
+    {
+        "batter": " Alex Gordon",
+        "pitcher": " Carson Fulmer",
+        "plate_appearances": "3",
+        "avg": ".667",
+        "obp": ".667",
+        "slg": ".667"
+    },
+    {
+        "batter": " David Peralta",
+        "pitcher": " Jeremy Hellickson",
+        "plate_appearances": "4",
+        "avg": ".500",
+        "obp": ".500",
+        "slg": "2.000"
+    },
+    {
+        "batter": " Preston Tucker",
+        "pitcher": " Nick Pivetta",
+        "plate_appearances": "4",
+        "avg": ".500",
+        "obp": ".500",
+        "slg": ".500"
+    },
+    {
+        "batter": " Ryan Rua",
+        "pitcher": " Jaime Garcia",
+        "plate_appearances": "4",
+        "avg": ".500",
+        "obp": ".500",
+        "slg": "1.250"
+    },
+    {
+        "batter": " Michael A. Taylor",
+        "pitcher": " Patrick Corbin",
+        "plate_appearances": "4",
+        "avg": ".500",
+        "obp": ".500",
+        "slg": ".750"
+    },
+    {
+        "batter": " Jorge Bonifacio",
+        "pitcher": " Dylan Covey",
+        "plate_appearances": "5",
+        "avg": ".500",
+        "obp": ".600",
+        "slg": "1.250"
+    },
+    {
+        "batter": " Trevor Story",
+        "pitcher": " Wei-Yin Chen",
+        "plate_appearances": "5",
+        "avg": ".500",
+        "obp": ".600",
+        "slg": ".500"
+    },
+    {
+        "batter": " Josh Reddick",
+        "pitcher": " Daniel Mengden",
+        "plate_appearances": "5",
+        "avg": ".500",
+        "obp": ".400",
+        "slg": ".500"
+    },
+    {
+        "batter": " Tommy La Stella",
+        "pitcher": " Junior Guerra",
+        "plate_appearances": "5",
+        "avg": ".500",
+        "obp": ".600",
+        "slg": ".500"
+    },
+    {
+        "batter": " Jose Iglesias",
+        "pitcher": " Andrew Cashner",
+        "plate_appearances": "5",
+        "avg": ".400",
+        "obp": ".400",
+        "slg": ".600"
+    },
+    {
+        "batter": " Teoscar Hernandez",
+        "pitcher": " Bartolo Colon",
+        "plate_appearances": "5",
+        "avg": ".400",
+        "obp": ".400",
+        "slg": ".800"
+    },
+    {
+        "batter": " Adam Duvall",
+        "pitcher": " Jake Odorizzi",
+        "plate_appearances": "6",
+        "avg": ".400",
+        "obp": ".500",
+        "slg": ".600"
+    },
+    {
+        "batter": " Zack Cozart",
+        "pitcher": " Masahiro Tanaka",
+        "plate_appearances": "6",
+        "avg": ".400",
+        "obp": ".500",
+        "slg": "1.000"
+    },
+    {
+        "batter": " Gregor Blanco",
+        "pitcher": " Alex Wood",
+        "plate_appearances": "5",
+        "avg": ".400",
+        "obp": ".400",
+        "slg": ".400"
+    },
+    {
+        "batter": " Marcell Ozuna",
+        "pitcher": " Trevor Williams",
+        "plate_appearances": "6",
+        "avg": ".400",
+        "obp": ".500",
+        "slg": ".600"
+    },
+    {
+        "batter": " Mitch Haniger",
+        "pitcher": " Carlos Carrasco",
+        "plate_appearances": "7",
+        "avg": ".400",
+        "obp": ".571",
+        "slg": "1.000"
+    },
+    {
+        "batter": " Joc Pederson",
+        "pitcher": " Chris Stratton",
+        "plate_appearances": "9",
+        "avg": ".333",
+        "obp": ".556",
+        "slg": ".667"
+    },
+    {
+        "batter": " Brandon Snyder",
+        "pitcher": " David Price",
+        "plate_appearances": "6",
+        "avg": ".333",
+        "obp": ".333",
+        "slg": ".833"
+    },
+    {
+        "batter": " Yasiel Puig",
+        "pitcher": " Chris Stratton",
+        "plate_appearances": "7",
+        "avg": ".333",
+        "obp": ".429",
+        "slg": ".500"
+    },
+    {
+        "batter": " Kyle Schwarber",
+        "pitcher": " Junior Guerra",
+        "plate_appearances": "6",
+        "avg": ".333",
+        "obp": ".333",
+        "slg": ".833"
+    },
+    {
+        "batter": " Nolan Arenado",
+        "pitcher": " Wei-Yin Chen",
+        "plate_appearances": "7",
+        "avg": ".333",
+        "obp": ".429",
+        "slg": ".500"
+    },
+    {
+        "batter": " Kelby Tomlinson",
+        "pitcher": " Alex Wood",
+        "plate_appearances": "6",
+        "avg": ".333",
+        "obp": ".333",
+        "slg": ".333"
+    },
+    {
+        "batter": " Dee Gordon",
+        "pitcher": " Carlos Carrasco",
+        "plate_appearances": "9",
+        "avg": ".286",
+        "obp": ".444",
+        "slg": ".286"
+    },
+    {
+        "batter": " Anthony Rendon",
+        "pitcher": " Patrick Corbin",
+        "plate_appearances": "7",
+        "avg": ".286",
+        "obp": ".286",
+        "slg": ".429"
+    },
+    {
+        "batter": " Kris Bryant",
+        "pitcher": " Junior Guerra",
+        "plate_appearances": "11",
+        "avg": ".286",
+        "obp": ".546",
+        "slg": ".286"
+    },
+    {
+        "batter": " Johan Camargo",
+        "pitcher": " Nick Pivetta",
+        "plate_appearances": "7",
+        "avg": ".286",
+        "obp": ".286",
+        "slg": ".714"
+    },
+    {
+        "batter": " Scooter Gennett",
+        "pitcher": " Jake Odorizzi",
+        "plate_appearances": "8",
+        "avg": ".286",
+        "obp": ".375",
+        "slg": ".714"
+    },
+    {
+        "batter": " Marwin Gonzalez",
+        "pitcher": " Daniel Mengden",
+        "plate_appearances": "10",
+        "avg": ".250",
+        "obp": ".400",
+        "slg": ".250"
+    },
+    {
+        "batter": " Tommy Pham",
+        "pitcher": " Trevor Williams",
+        "plate_appearances": "11",
+        "avg": ".250",
+        "obp": ".455",
+        "slg": ".750"
+    },
+    {
+        "batter": " Logan Forsythe",
+        "pitcher": " Johnny Cueto",
+        "plate_appearances": "8",
+        "avg": ".250",
+        "obp": ".250",
+        "slg": ".250"
+    },
+    {
+        "batter": " Adrian Beltre",
+        "pitcher": " Jaime Garcia",
+        "plate_appearances": "8",
+        "avg": ".250",
+        "obp": ".250",
+        "slg": ".375"
+    },
+    {
+        "batter": " Victor Martinez",
+        "pitcher": " Andrew Cashner",
+        "plate_appearances": "9",
+        "avg": ".250",
+        "obp": ".333",
+        "slg": ".625"
+    },
+    {
+        "batter": " Elvis Andrus",
+        "pitcher": " Jaime Garcia",
+        "plate_appearances": "8",
+        "avg": ".250",
+        "obp": ".250",
+        "slg": ".250"
+    },
+    {
+        "batter": " Brett Gardner",
+        "pitcher": " Garrett Richards",
+        "plate_appearances": "11",
+        "avg": ".250",
+        "obp": ".455",
+        "slg": ".250"
+    },
+    {
+        "batter": " Andrelton Simmons",
+        "pitcher": " Masahiro Tanaka",
+        "plate_appearances": "9",
+        "avg": ".222",
+        "obp": ".222",
+        "slg": ".333"
+    },
+    {
+        "batter": " Aaron Altherr",
+        "pitcher": " Mike Foltynewicz",
+        "plate_appearances": "10",
+        "avg": ".222",
+        "obp": ".300",
+        "slg": ".222"
+    },
+    {
+        "batter": " Corey Seager",
+        "pitcher": " Chris Stratton",
+        "plate_appearances": "10",
+        "avg": ".222",
+        "obp": ".300",
+        "slg": ".222"
+    },
+    {
+        "batter": " Edwin Encarnacion",
+        "pitcher": " Mike Leake",
+        "plate_appearances": "12",
+        "avg": ".200",
+        "obp": ".333",
+        "slg": ".600"
+    },
+    {
+        "batter": " Lonnie Chisenhall",
+        "pitcher": " Mike Leake",
+        "plate_appearances": "11",
+        "avg": ".200",
+        "obp": ".273",
+        "slg": ".200"
+    },
+    {
+        "batter": " Austin Jackson",
+        "pitcher": " Alex Wood",
+        "plate_appearances": "10",
+        "avg": ".200",
+        "obp": ".200",
+        "slg": ".300"
+    },
+    {
+        "batter": " George Springer",
+        "pitcher": " Daniel Mengden",
+        "plate_appearances": "11",
+        "avg": ".200",
+        "obp": ".273",
+        "slg": ".300"
+    },
+    {
+        "batter": " Justin Upton",
+        "pitcher": " Masahiro Tanaka",
+        "plate_appearances": "11",
+        "avg": ".182",
+        "obp": ".182",
+        "slg": ".273"
+    },
+    {
+        "batter": " Joe Panik",
+        "pitcher": " Alex Wood",
+        "plate_appearances": "14",
+        "avg": ".167",
+        "obp": ".231",
+        "slg": ".333"
+    },
+    {
+        "batter": " Denard Span",
+        "pitcher": " David Price",
+        "plate_appearances": "17",
+        "avg": ".143",
+        "obp": ".250",
+        "slg": ".357"
+    },
+    {
+        "batter": " Jesus Aguilar",
+        "pitcher": " Jose Quintana",
+        "plate_appearances": "15",
+        "avg": ".143",
+        "obp": ".200",
+        "slg": ".143"
+    },
+    {
+        "batter": " Gorkys Hernandez",
+        "pitcher": " Alex Wood",
+        "plate_appearances": "15",
+        "avg": ".133",
+        "obp": ".133",
+        "slg": ".200"
+    },
+    {
+        "batter": " Eric Hosmer",
+        "pitcher": " Jason Vargas",
+        "plate_appearances": "18",
+        "avg": ".133",
+        "obp": ".278",
+        "slg": ".133"
+    },
+    {
+        "batter": " Craig Gentry",
+        "pitcher": " Francisco Liriano",
+        "plate_appearances": "16",
+        "avg": ".125",
+        "obp": ".125",
+        "slg": ".125"
+    },
+    {
+        "batter": " Gary Sanchez",
+        "pitcher": " Garrett Richards",
+        "plate_appearances": "2",
+        "avg": "1.000",
+        "obp": "1.000",
+        "slg": "2.000"
+    },
+    {
+        "batter": " Cheslor Cuthbert",
+        "pitcher": " Carson Fulmer",
+        "plate_appearances": "1",
+        "avg": "1.000",
+        "obp": "1.000",
+        "slg": "3.000"
+    },
+    {
+        "batter": " Hunter Pence",
+        "pitcher": " Walker Buehler",
+        "plate_appearances": "2",
+        "avg": "1.000",
+        "obp": "1.000",
+        "slg": "1.000"
+    },
+    {
+        "batter": " Miguel Andujar",
+        "pitcher": " Garrett Richards",
+        "plate_appearances": "1",
+        "avg": "1.000",
+        "obp": "1.000",
+        "slg": "2.000"
+    },
+    {
+        "batter": " Wilmer Difo",
+        "pitcher": " Patrick Corbin",
+        "plate_appearances": "1",
+        "avg": "1.000",
+        "obp": "1.000",
+        "slg": "1.000"
+    },
+    {
+        "batter": " Ehire Adrianza",
+        "pitcher": " Sal Romano",
+        "plate_appearances": "2",
+        "avg": "1.000",
+        "obp": "1.000",
+        "slg": "2.000"
+    },
+    {
+        "batter": " Buster Posey",
+        "pitcher": " Walker Buehler",
+        "plate_appearances": "1",
+        "avg": "1.000",
+        "obp": "1.000",
+        "slg": "1.000"
+    },
+    {
+        "batter": " Enrique Hernandez",
+        "pitcher": " Chris Stratton",
+        "plate_appearances": "2",
+        "avg": ".500",
+        "obp": ".500",
+        "slg": ".500"
+    },
+    {
+        "batter": " Andrew McCutchen",
+        "pitcher": " Walker Buehler",
+        "plate_appearances": "3",
+        "avg": ".500",
+        "obp": ".667",
+        "slg": ".500"
+    },
+    {
+        "batter": " Abraham Almonte",
+        "pitcher": " Dylan Covey",
+        "plate_appearances": "3",
+        "avg": ".500",
+        "obp": ".667",
+        "slg": ".500"
+    },
+    {
+        "batter": " Starling Marte",
+        "pitcher": " Jack Flaherty",
+        "plate_appearances": "2",
+        "avg": ".500",
+        "obp": ".500",
+        "slg": ".500"
+    },
+    {
+        "batter": " Austin Slater",
+        "pitcher": " Walker Buehler",
+        "plate_appearances": "2",
+        "avg": ".500",
+        "obp": ".500",
+        "slg": ".500"
+    },
+    {
+        "batter": " Austin Hedges",
+        "pitcher": " Jason Vargas",
+        "plate_appearances": "2",
+        "avg": ".500",
+        "obp": ".500",
+        "slg": ".500"
+    },
+    {
+        "batter": " Pedro Severino",
+        "pitcher": " Patrick Corbin",
+        "plate_appearances": "3",
+        "avg": ".500",
+        "obp": ".667",
+        "slg": ".500"
+    },
+    {
+        "batter": " Devin Mesoraco",
+        "pitcher": " Jake Odorizzi",
+        "plate_appearances": "2",
+        "avg": ".500",
+        "obp": ".500",
+        "slg": "1.000"
+    },
+    {
+        "batter": " Jorge Soler",
+        "pitcher": " Dylan Covey",
+        "plate_appearances": "3",
+        "avg": ".500",
+        "obp": ".667",
+        "slg": "1.000"
+    },
+    {
+        "batter": " Jurickson Profar",
+        "pitcher": " Jaime Garcia",
+        "plate_appearances": "4",
+        "avg": ".500",
+        "obp": ".750",
+        "slg": "2.000"
+    },
+    {
+        "batter": " Starlin Castro",
+        "pitcher": " German Marquez",
+        "plate_appearances": "3",
+        "avg": ".500",
+        "obp": ".667",
+        "slg": ".500"
+    },
+    {
+        "batter": " Francisco Cervelli",
+        "pitcher": " Jack Flaherty",
+        "plate_appearances": "2",
+        "avg": ".500",
+        "obp": ".500",
+        "slg": "2.000"
+    },
+    {
+        "batter": " Pat Valaika",
+        "pitcher": " Wei-Yin Chen",
+        "plate_appearances": "2",
+        "avg": ".500",
+        "obp": ".500",
+        "slg": "1.000"
+    },
+    {
+        "batter": " Lewis Brinson",
+        "pitcher": " German Marquez",
+        "plate_appearances": "3",
+        "avg": ".500",
+        "obp": ".667",
+        "slg": "1.000"
+    },
+    {
+        "batter": " Stephen Piscotty",
+        "pitcher": " Lance McCullers Jr.",
+        "plate_appearances": "2",
+        "avg": ".500",
+        "obp": ".500",
+        "slg": ".500"
+    },
+    {
+        "batter": " Didi Gregorius",
+        "pitcher": " Garrett Richards",
+        "plate_appearances": "3",
+        "avg": ".500",
+        "obp": ".667",
+        "slg": ".500"
+    },
+    {
+        "batter": " Pablo Sandoval",
+        "pitcher": " Walker Buehler",
+        "plate_appearances": "2",
+        "avg": ".500",
+        "obp": ".500",
+        "slg": ".500"
+    },
+    {
+        "batter": " Asdrubal Cabrera",
+        "pitcher": " Joey Lucchesi",
+        "plate_appearances": "3",
+        "avg": ".500",
+        "obp": ".667",
+        "slg": ".500"
+    },
+    {
+        "batter": " Omar Narvaez",
+        "pitcher": " Eric Skoglund",
+        "plate_appearances": "2",
+        "avg": ".500",
+        "obp": ".500",
+        "slg": ".500"
+    },
+    {
+        "batter": " Mark Canha",
+        "pitcher": " Lance McCullers Jr.",
+        "plate_appearances": "2",
+        "avg": ".500",
+        "obp": ".500",
+        "slg": ".500"
+    },
+    {
+        "batter": " Jorge Soler",
+        "pitcher": " Carson Fulmer",
+        "plate_appearances": "3",
+        "avg": ".500",
+        "obp": ".667",
+        "slg": ".500"
+    },
+    {
+        "batter": " Avisail Garcia",
+        "pitcher": " Eric Skoglund",
+        "plate_appearances": "2",
+        "avg": ".500",
+        "obp": ".500",
+        "slg": "1.000"
+    },
+    {
+        "batter": " Nick Hundley",
+        "pitcher": " Walker Buehler",
+        "plate_appearances": "2",
+        "avg": ".500",
+        "obp": ".500",
+        "slg": ".500"
+    },
+    {
+        "batter": " Manuel Margot",
+        "pitcher": " Jason Vargas",
+        "plate_appearances": "2",
+        "avg": ".500",
+        "obp": ".500",
+        "slg": "1.500"
+    },
+    {
+        "batter": " Eduardo Escobar",
+        "pitcher": " Sal Romano",
+        "plate_appearances": "2",
+        "avg": ".500",
+        "obp": ".500",
+        "slg": "1.000"
+    },
+    {
+        "batter": " Christian Villanueva",
+        "pitcher": " Jason Vargas",
+        "plate_appearances": "3",
+        "avg": ".500",
+        "obp": ".667",
+        "slg": "2.000"
+    },
+    {
+        "batter": " JaCoby Jones",
+        "pitcher": " Andrew Cashner",
+        "plate_appearances": "2",
+        "avg": ".500",
+        "obp": ".500",
+        "slg": "1.000"
+    },
+    {
+        "batter": " Amed Rosario",
+        "pitcher": " Joey Lucchesi",
+        "plate_appearances": "2",
+        "avg": ".500",
+        "obp": ".500",
+        "slg": ".500"
+    },
+    {
+        "batter": " Nomar Mazara",
+        "pitcher": " Jaime Garcia",
+        "plate_appearances": "3",
+        "avg": ".333",
+        "obp": ".333",
+        "slg": ".333"
+    },
+    {
+        "batter": " Jay Bruce",
+        "pitcher": " Joey Lucchesi",
+        "plate_appearances": "3",
+        "avg": ".333",
+        "obp": ".333",
+        "slg": ".333"
+    },
+    {
+        "batter": " Lourdes Gurriel Jr.",
+        "pitcher": " Bartolo Colon",
+        "plate_appearances": "3",
+        "avg": ".333",
+        "obp": ".333",
+        "slg": "1.333"
+    },
+    {
+        "batter": " Yoan Moncada",
+        "pitcher": " Trevor Oaks",
+        "plate_appearances": "3",
+        "avg": ".333",
+        "obp": ".333",
+        "slg": ".333"
+    },
+    {
+        "batter": " Yoenis Cespedes",
+        "pitcher": " Joey Lucchesi",
+        "plate_appearances": "3",
+        "avg": ".333",
+        "obp": ".333",
+        "slg": "1.333"
+    },
+    {
+        "batter": " Martin Prado",
+        "pitcher": " German Marquez",
+        "plate_appearances": "3",
+        "avg": ".333",
+        "obp": ".333",
+        "slg": ".667"
+    },
+    {
+        "batter": " Chris Young",
+        "pitcher": " Masahiro Tanaka",
+        "plate_appearances": "3",
+        "avg": ".333",
+        "obp": ".333",
+        "slg": ".333"
+    },
+    {
+        "batter": " Jonathan Lucroy",
+        "pitcher": " Lance McCullers Jr.",
+        "plate_appearances": "4",
+        "avg": ".333",
+        "obp": ".500",
+        "slg": ".333"
+    },
+    {
+        "batter": " Adam Engel",
+        "pitcher": " Eric Skoglund",
+        "plate_appearances": "3",
+        "avg": ".333",
+        "obp": ".333",
+        "slg": ".667"
+    },
+    {
+        "batter": " Jhonatan Solano",
+        "pitcher": " Patrick Corbin",
+        "plate_appearances": "3",
+        "avg": ".333",
+        "obp": ".333",
+        "slg": ".333"
+    },
+    {
+        "batter": " Jake Marisnick",
+        "pitcher": " Daniel Mengden",
+        "plate_appearances": "4",
+        "avg": ".333",
+        "obp": ".500",
+        "slg": ".333"
+    },
+    {
+        "batter": " Eduardo Nunez",
+        "pitcher": " Yonny Chirinos",
+        "plate_appearances": "3",
+        "avg": ".333",
+        "obp": ".333",
+        "slg": ".333"
+    },
+    {
+        "batter": " Hanley Ramirez",
+        "pitcher": " Yonny Chirinos",
+        "plate_appearances": "4",
+        "avg": ".333",
+        "obp": ".500",
+        "slg": ".333"
+    },
+    {
+        "batter": " Adrian Sanchez",
+        "pitcher": " Patrick Corbin",
+        "plate_appearances": "3",
+        "avg": ".333",
+        "obp": ".333",
+        "slg": ".667"
+    },
+    {
+        "batter": " Franchy Cordero",
+        "pitcher": " Jason Vargas",
+        "plate_appearances": "3",
+        "avg": ".333",
+        "obp": ".333",
+        "slg": "1.333"
+    },
+    {
+        "batter": " Lucas Duda",
+        "pitcher": " Carson Fulmer",
+        "plate_appearances": "3",
+        "avg": ".333",
+        "obp": ".333",
+        "slg": ".333"
+    },
+    {
+        "batter": " Austin Barnes",
+        "pitcher": " Johnny Cueto",
+        "plate_appearances": "3",
+        "avg": ".333",
+        "obp": ".333",
+        "slg": ".333"
+    },
+    {
+        "batter": " J.T. Realmuto",
+        "pitcher": " German Marquez",
+        "plate_appearances": "5",
+        "avg": ".333",
+        "obp": ".600",
+        "slg": ".333"
+    },
+    {
+        "batter": " Troy Tulowitzki",
+        "pitcher": " Bartolo Colon",
+        "plate_appearances": "3",
+        "avg": ".333",
+        "obp": ".333",
+        "slg": ".333"
+    },
+    {
+        "batter": " Brian Anderson",
+        "pitcher": " German Marquez",
+        "plate_appearances": "3",
+        "avg": ".333",
+        "obp": ".333",
+        "slg": ".333"
+    },
+    {
+        "batter": " Luke Maile",
+        "pitcher": " Bartolo Colon",
+        "plate_appearances": "4",
+        "avg": ".250",
+        "obp": ".250",
+        "slg": ".250"
+    },
+    {
+        "batter": " Joey Gallo",
+        "pitcher": " Jaime Garcia",
+        "plate_appearances": "6",
+        "avg": ".250",
+        "obp": ".500",
+        "slg": "1.000"
+    },
+    {
+        "batter": " Paul Goldschmidt",
+        "pitcher": " Jeremy Hellickson",
+        "plate_appearances": "8",
+        "avg": ".250",
+        "obp": ".625",
+        "slg": ".250"
+    },
+    {
+        "batter": " Nicholas Castellanos",
+        "pitcher": " Andrew Cashner",
+        "plate_appearances": "6",
+        "avg": ".250",
+        "obp": ".500",
+        "slg": ".250"
+    },
+    {
+        "batter": " Mookie Betts",
+        "pitcher": " Yonny Chirinos",
+        "plate_appearances": "6",
+        "avg": ".250",
+        "obp": ".500",
+        "slg": ".250"
+    },
+    {
+        "batter": " Yasmani Grandal",
+        "pitcher": " Chris Stratton",
+        "plate_appearances": "5",
+        "avg": ".250",
+        "obp": ".200",
+        "slg": "1.000"
+    },
+    {
+        "batter": " Robinson Chirinos",
+        "pitcher": " Jaime Garcia",
+        "plate_appearances": "4",
+        "avg": ".250",
+        "obp": ".250",
+        "slg": "1.000"
+    },
+    {
+        "batter": " Jackie Bradley Jr.",
+        "pitcher": " Yonny Chirinos",
+        "plate_appearances": "4",
+        "avg": ".250",
+        "obp": ".250",
+        "slg": ".250"
+    },
+    {
+        "batter": " Albert Almora Jr.",
+        "pitcher": " Junior Guerra",
+        "plate_appearances": "4",
+        "avg": ".250",
+        "obp": ".250",
+        "slg": ".250"
+    },
+    {
+        "batter": " Logan Forsythe",
+        "pitcher": " Chris Stratton",
+        "plate_appearances": "4",
+        "avg": ".250",
+        "obp": ".250",
+        "slg": ".500"
+    },
+    {
+        "batter": " James McCann",
+        "pitcher": " Andrew Cashner",
+        "plate_appearances": "5",
+        "avg": ".200",
+        "obp": ".200",
+        "slg": ".200"
+    },
+    {
+        "batter": " Miguel Rojas",
+        "pitcher": " German Marquez",
+        "plate_appearances": "5",
+        "avg": ".200",
+        "obp": ".200",
+        "slg": ".200"
+    },
+    {
+        "batter": " DJ LeMahieu",
+        "pitcher": " Wei-Yin Chen",
+        "plate_appearances": "5",
+        "avg": ".200",
+        "obp": ".200",
+        "slg": ".600"
+    },
+    {
+        "batter": " Colby Rasmus",
+        "pitcher": " Francisco Liriano",
+        "plate_appearances": "5",
+        "avg": ".200",
+        "obp": ".200",
+        "slg": ".200"
+    },
+    {
+        "batter": " Xander Bogaerts",
+        "pitcher": " Yonny Chirinos",
+        "plate_appearances": "6",
+        "avg": ".200",
+        "obp": ".167",
+        "slg": ".200"
+    },
+    {
+        "batter": " Kurt Suzuki",
+        "pitcher": " Nick Pivetta",
+        "plate_appearances": "6",
+        "avg": ".200",
+        "obp": ".333",
+        "slg": ".200"
+    },
+    {
+        "batter": " Alex Avila",
+        "pitcher": " Jeremy Hellickson",
+        "plate_appearances": "7",
+        "avg": ".200",
+        "obp": ".429",
+        "slg": ".200"
+    },
+    {
+        "batter": " Jeimer Candelario",
+        "pitcher": " Andrew Cashner",
+        "plate_appearances": "6",
+        "avg": ".200",
+        "obp": ".333",
+        "slg": ".600"
+    },
+    {
+        "batter": " Bradley Zimmer",
+        "pitcher": " Mike Leake",
+        "plate_appearances": "5",
+        "avg": ".200",
+        "obp": ".200",
+        "slg": ".200"
+    },
+    {
+        "batter": " Charlie Blackmon",
+        "pitcher": " Wei-Yin Chen",
+        "plate_appearances": "5",
+        "avg": ".200",
+        "obp": ".200",
+        "slg": ".800"
+    },
+    {
+        "batter": " Evan Gattis",
+        "pitcher": " Daniel Mengden",
+        "plate_appearances": "6",
+        "avg": ".200",
+        "obp": ".333",
+        "slg": ".800"
+    },
+    {
+        "batter": " Derek Dietrich",
+        "pitcher": " German Marquez",
+        "plate_appearances": "6",
+        "avg": ".200",
+        "obp": ".333",
+        "slg": ".200"
+    },
+    {
+        "batter": " Tim Beckham",
+        "pitcher": " Francisco Liriano",
+        "plate_appearances": "8",
+        "avg": ".200",
+        "obp": ".500",
+        "slg": ".200"
+    },
+    {
+        "batter": " Tyler Naquin",
+        "pitcher": " Mike Leake",
+        "plate_appearances": "5",
+        "avg": ".200",
+        "obp": ".200",
+        "slg": ".200"
+    },
+    {
+        "batter": " Rafael Devers",
+        "pitcher": " Yonny Chirinos",
+        "plate_appearances": "5",
+        "avg": ".200",
+        "obp": ".200",
+        "slg": ".200"
+    },
+    {
+        "batter": " Pablo Sandoval",
+        "pitcher": " Alex Wood",
+        "plate_appearances": "6",
+        "avg": ".200",
+        "obp": ".333",
+        "slg": ".200"
+    },
+    {
+        "batter": " Tim Anderson",
+        "pitcher": " Eric Skoglund",
+        "plate_appearances": "5",
+        "avg": ".200",
+        "obp": ".200",
+        "slg": ".800"
+    },
+    {
+        "batter": " J.D. Martinez",
+        "pitcher": " Yonny Chirinos",
+        "plate_appearances": "6",
+        "avg": ".200",
+        "obp": ".333",
+        "slg": ".600"
+    },
+    {
+        "batter": " Yoan Moncada",
+        "pitcher": " Eric Skoglund",
+        "plate_appearances": "5",
+        "avg": ".200",
+        "obp": ".200",
+        "slg": ".200"
+    },
+    {
+        "batter": " Javier Baez",
+        "pitcher": " Junior Guerra",
+        "plate_appearances": "6",
+        "avg": ".167",
+        "obp": ".167",
+        "slg": ".333"
+    },
+    {
+        "batter": " Daniel Robertson",
+        "pitcher": " David Price",
+        "plate_appearances": "8",
+        "avg": ".167",
+        "obp": ".375",
+        "slg": ".333"
+    },
+    {
+        "batter": " Jose Peraza",
+        "pitcher": " Jake Odorizzi",
+        "plate_appearances": "6",
+        "avg": ".167",
+        "obp": ".167",
+        "slg": ".167"
+    },
+    {
+        "batter": " Aaron Hicks",
+        "pitcher": " Garrett Richards",
+        "plate_appearances": "8",
+        "avg": ".167",
+        "obp": ".286",
+        "slg": ".500"
+    },
+    {
+        "batter": " Dexter Fowler",
+        "pitcher": " Trevor Williams",
+        "plate_appearances": "8",
+        "avg": ".167",
+        "obp": ".375",
+        "slg": ".167"
+    },
+    {
+        "batter": " Mike Zunino",
+        "pitcher": " Carlos Carrasco",
+        "plate_appearances": "6",
+        "avg": ".167",
+        "obp": ".167",
+        "slg": ".167"
+    },
+    {
+        "batter": " Carlos Santana",
+        "pitcher": " Mike Foltynewicz",
+        "plate_appearances": "10",
+        "avg": ".167",
+        "obp": ".400",
+        "slg": ".667"
+    },
+    {
+        "batter": " Willson Contreras",
+        "pitcher": " Junior Guerra",
+        "plate_appearances": "8",
+        "avg": ".167",
+        "obp": ".375",
+        "slg": ".167"
+    },
+    {
+        "batter": " Joey Votto",
+        "pitcher": " Jake Odorizzi",
+        "plate_appearances": "6",
+        "avg": ".167",
+        "obp": ".167",
+        "slg": ".167"
+    },
+    {
+        "batter": " Randal Grichuk",
+        "pitcher": " Bartolo Colon",
+        "plate_appearances": "8",
+        "avg": ".167",
+        "obp": ".375",
+        "slg": ".333"
+    },
+    {
+        "batter": " Enrique Hernandez",
+        "pitcher": " Johnny Cueto",
+        "plate_appearances": "7",
+        "avg": ".143",
+        "obp": ".143",
+        "slg": ".143"
+    },
+    {
+        "batter": " Manny Pina",
+        "pitcher": " Jose Quintana",
+        "plate_appearances": "7",
+        "avg": ".143",
+        "obp": ".143",
+        "slg": ".143"
+    },
+    {
+        "batter": " Aledmys Diaz",
+        "pitcher": " Bartolo Colon",
+        "plate_appearances": "7",
+        "avg": ".143",
+        "obp": ".143",
+        "slg": ".143"
+    },
+    {
+        "batter": " Ozzie Albies",
+        "pitcher": " Nick Pivetta",
+        "plate_appearances": "8",
+        "avg": ".143",
+        "obp": ".125",
+        "slg": ".143"
+    },
+    {
+        "batter": " Yuli Gurriel",
+        "pitcher": " Daniel Mengden",
+        "plate_appearances": "8",
+        "avg": ".143",
+        "obp": ".125",
+        "slg": ".143"
+    },
+    {
+        "batter": " Jarrod Dyson",
+        "pitcher": " Jeremy Hellickson",
+        "plate_appearances": "8",
+        "avg": ".125",
+        "obp": ".125",
+        "slg": ".125"
+    },
+    {
+        "batter": " Rhys Hoskins",
+        "pitcher": " Mike Foltynewicz",
+        "plate_appearances": "9",
+        "avg": ".125",
+        "obp": ".222",
+        "slg": ".500"
+    },
+    {
+        "batter": " Nick Ahmed",
+        "pitcher": " Jeremy Hellickson",
+        "plate_appearances": "8",
+        "avg": ".125",
+        "obp": ".125",
+        "slg": ".250"
+    },
+    {
+        "batter": " Kole Calhoun",
+        "pitcher": " Masahiro Tanaka",
+        "plate_appearances": "11",
+        "avg": ".111",
+        "obp": ".182",
+        "slg": ".444"
+    },
+    {
+        "batter": " Evan Longoria",
+        "pitcher": " Alex Wood",
+        "plate_appearances": "9",
+        "avg": ".111",
+        "obp": ".111",
+        "slg": ".111"
+    },
+    {
+        "batter": " Ben Zobrist",
+        "pitcher": " Junior Guerra",
+        "plate_appearances": "11",
+        "avg": ".111",
+        "obp": ".273",
+        "slg": ".111"
+    },
+    {
+        "batter": " Matt Joyce",
+        "pitcher": " Lance McCullers Jr.",
+        "plate_appearances": "9",
+        "avg": ".111",
+        "obp": ".111",
+        "slg": ".111"
+    },
+    {
+        "batter": " Wil Myers",
+        "pitcher": " Jason Vargas",
+        "plate_appearances": "12",
+        "avg": ".100",
+        "obp": ".250",
+        "slg": ".200"
+    },
+    {
+        "batter": " Jed Lowrie",
+        "pitcher": " Lance McCullers Jr.",
+        "plate_appearances": "12",
+        "avg": ".091",
+        "obp": ".167",
+        "slg": ".091"
+    },
+    {
+        "batter": " Andrew Romine",
+        "pitcher": " Carlos Carrasco",
+        "plate_appearances": "11",
+        "avg": ".091",
+        "obp": ".091",
+        "slg": ".182"
+    },
+    {
+        "batter": " Freddie Freeman",
+        "pitcher": " Nick Pivetta",
+        "plate_appearances": "14",
+        "avg": ".083",
+        "obp": ".214",
+        "slg": ".250"
+    },
+    {
+        "batter": " Jeff Mathis",
+        "pitcher": " Jeremy Hellickson",
+        "plate_appearances": "13",
+        "avg": ".077",
+        "obp": ".077",
+        "slg": ".154"
+    },
+    {
+        "batter": " Travis Shaw",
+        "pitcher": " Jose Quintana",
+        "plate_appearances": "14",
+        "avg": ".071",
+        "obp": ".071",
+        "slg": ".071"
+    },
+    {
+        "batter": " Joc Pederson",
+        "pitcher": " Johnny Cueto",
+        "plate_appearances": "19",
+        "avg": ".056",
+        "obp": ".105",
+        "slg": ".056"
+    },
+    {
+        "batter": " Carlos Gomez",
+        "pitcher": " David Price",
+        "plate_appearances": "24",
+        "avg": ".044",
+        "obp": ".083",
+        "slg": ".044"
+    },
+    {
+        "batter": " Giovanny Urshela",
+        "pitcher": " Mike Leake",
+        "plate_appearances": "5",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Blake Swihart",
+        "pitcher": " Yonny Chirinos",
+        "plate_appearances": "2",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Welington Castillo",
+        "pitcher": " Trevor Oaks",
+        "plate_appearances": "3",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Ketel Marte",
+        "pitcher": " Jeremy Hellickson",
+        "plate_appearances": "2",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Billy Hamilton",
+        "pitcher": " Jake Odorizzi",
+        "plate_appearances": "6",
+        "avg": ".000",
+        "obp": ".167",
+        "slg": ".000"
+    },
+    {
+        "batter": " Austin Barnes",
+        "pitcher": " Chris Stratton",
+        "plate_appearances": "3",
+        "avg": ".000",
+        "obp": ".333",
+        "slg": ".000"
+    },
+    {
+        "batter": " Cheslor Cuthbert",
+        "pitcher": " Dylan Covey",
+        "plate_appearances": "5",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Niko Goodrum",
+        "pitcher": " Andrew Cashner",
+        "plate_appearances": "3",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Jose Abreu",
+        "pitcher": " Trevor Oaks",
+        "plate_appearances": "3",
+        "avg": ".000",
+        "obp": ".333",
+        "slg": ".000"
+    },
+    {
+        "batter": " Addison Russell",
+        "pitcher": " Junior Guerra",
+        "plate_appearances": "6",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Mitch Moreland",
+        "pitcher": " Yonny Chirinos",
+        "plate_appearances": "1",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Wilmer Flores",
+        "pitcher": " Joey Lucchesi",
+        "plate_appearances": "3",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Brandon Crawford",
+        "pitcher": " Walker Buehler",
+        "plate_appearances": "4",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Joe Mauer",
+        "pitcher": " Sal Romano",
+        "plate_appearances": "3",
+        "avg": ".000",
+        "obp": ".333",
+        "slg": ".000"
+    },
+    {
+        "batter": " Jedd Gyorko",
+        "pitcher": " Trevor Williams",
+        "plate_appearances": "5",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Pedro Florimon",
+        "pitcher": " Mike Foltynewicz",
+        "plate_appearances": "1",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Whit Merrifield",
+        "pitcher": " Dylan Covey",
+        "plate_appearances": "9",
+        "avg": ".000",
+        "obp": ".111",
+        "slg": ".000"
+    },
+    {
+        "batter": " Johnny Field",
+        "pitcher": " David Price",
+        "plate_appearances": "3",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Yan Gomes",
+        "pitcher": " Mike Leake",
+        "plate_appearances": "3",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Steve Pearce",
+        "pitcher": " Bartolo Colon",
+        "plate_appearances": "4",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Juan Lagares",
+        "pitcher": " Joey Lucchesi",
+        "plate_appearances": "2",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Logan Morrison",
+        "pitcher": " Sal Romano",
+        "plate_appearances": "2",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Caleb Joseph",
+        "pitcher": " Francisco Liriano",
+        "plate_appearances": "7",
+        "avg": ".000",
+        "obp": ".143",
+        "slg": ".000"
+    },
+    {
+        "batter": " Matt Chapman",
+        "pitcher": " Lance McCullers Jr.",
+        "plate_appearances": "2",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Christian Vazquez",
+        "pitcher": " Yonny Chirinos",
+        "plate_appearances": "3",
+        "avg": ".000",
+        "obp": ".333",
+        "slg": ".000"
+    },
+    {
+        "batter": " Trea Turner",
+        "pitcher": " Patrick Corbin",
+        "plate_appearances": "4",
+        "avg": ".000",
+        "obp": ".250",
+        "slg": ".000"
+    },
+    {
+        "batter": " J.B. Shuck",
+        "pitcher": " German Marquez",
+        "plate_appearances": "3",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Stephen Vogt",
+        "pitcher": " Jose Quintana",
+        "plate_appearances": "3",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Brock Holt",
+        "pitcher": " Yonny Chirinos",
+        "plate_appearances": "2",
+        "avg": ".000",
+        "obp": ".500",
+        "slg": ".000"
+    },
+    {
+        "batter": " Kyle Farmer",
+        "pitcher": " Chris Stratton",
+        "plate_appearances": "2",
+        "avg": ".000",
+        "obp": ".500",
+        "slg": ".000"
+    },
+    {
+        "batter": " Jefry Marte",
+        "pitcher": " Masahiro Tanaka",
+        "plate_appearances": "5",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Domingo Santana",
+        "pitcher": " Jose Quintana",
+        "plate_appearances": "13",
+        "avg": ".000",
+        "obp": ".231",
+        "slg": ".000"
+    },
+    {
+        "batter": " Orlando Arcia",
+        "pitcher": " Jose Quintana",
+        "plate_appearances": "10",
+        "avg": ".000",
+        "obp": ".100",
+        "slg": ".000"
+    },
+    {
+        "batter": " Josh Bell",
+        "pitcher": " Jack Flaherty",
+        "plate_appearances": "2",
+        "avg": ".000",
+        "obp": ".500",
+        "slg": ".000"
+    },
+    {
+        "batter": " Todd Frazier",
+        "pitcher": " Joey Lucchesi",
+        "plate_appearances": "3",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Paulo Orlando",
+        "pitcher": " Carson Fulmer",
+        "plate_appearances": "1",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Jose Abreu",
+        "pitcher": " Eric Skoglund",
+        "plate_appearances": "5",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Isiah Kiner-Falefa",
+        "pitcher": " Jaime Garcia",
+        "plate_appearances": "3",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Whit Merrifield",
+        "pitcher": " Carson Fulmer",
+        "plate_appearances": "3",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Anthony Rizzo",
+        "pitcher": " Junior Guerra",
+        "plate_appearances": "11",
+        "avg": ".000",
+        "obp": ".182",
+        "slg": ".000"
+    },
+    {
+        "batter": " Carlos Tocci",
+        "pitcher": " Jaime Garcia",
+        "plate_appearances": "2",
+        "avg": ".000",
+        "obp": ".500",
+        "slg": ".000"
+    },
+    {
+        "batter": " Yolmer Sanchez",
+        "pitcher": " Eric Skoglund",
+        "plate_appearances": "3",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Rougned Odor",
+        "pitcher": " Jaime Garcia",
+        "plate_appearances": "3",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Bruce Maxwell",
+        "pitcher": " Lance McCullers Jr.",
+        "plate_appearances": "2",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Luis Sardinas",
+        "pitcher": " Francisco Liriano",
+        "plate_appearances": "2",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Ian Happ",
+        "pitcher": " Junior Guerra",
+        "plate_appearances": "2",
+        "avg": ".000",
+        "obp": ".500",
+        "slg": ".000"
+    },
+    {
+        "batter": " Lucas Duda",
+        "pitcher": " Dylan Covey",
+        "plate_appearances": "3",
+        "avg": ".000",
+        "obp": ".333",
+        "slg": ".000"
+    },
+    {
+        "batter": " Alen Hanson",
+        "pitcher": " Alex Wood",
+        "plate_appearances": "1",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Kelby Tomlinson",
+        "pitcher": " Walker Buehler",
+        "plate_appearances": "4",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Leury Garcia",
+        "pitcher": " Eric Skoglund",
+        "plate_appearances": "2",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Martin Maldonado",
+        "pitcher": " Masahiro Tanaka",
+        "plate_appearances": "5",
+        "avg": ".000",
+        "obp": ".200",
+        "slg": ".000"
+    },
+    {
+        "batter": " Brian Dozier",
+        "pitcher": " Sal Romano",
+        "plate_appearances": "3",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Jason Heyward",
+        "pitcher": " Junior Guerra",
+        "plate_appearances": "9",
+        "avg": ".000",
+        "obp": ".111",
+        "slg": ".000"
+    },
+    {
+        "batter": " Jose Lobaton",
+        "pitcher": " Joey Lucchesi",
+        "plate_appearances": "2",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Jorge Alfaro",
+        "pitcher": " Mike Foltynewicz",
+        "plate_appearances": "2",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Matt Kemp",
+        "pitcher": " Chris Stratton",
+        "plate_appearances": "1",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Alex Verdugo",
+        "pitcher": " Johnny Cueto",
+        "plate_appearances": "2",
+        "avg": ".000",
+        "obp": ".500",
+        "slg": ".000"
+    },
+    {
+        "batter": " Eric Sogard",
+        "pitcher": " Jose Quintana",
+        "plate_appearances": "1",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Raul Mondesi",
+        "pitcher": " Carson Fulmer",
+        "plate_appearances": "2",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Jacoby Ellsbury",
+        "pitcher": " Garrett Richards",
+        "plate_appearances": "6",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Chris Iannetta",
+        "pitcher": " Wei-Yin Chen",
+        "plate_appearances": "2",
+        "avg": ".000",
+        "obp": ".500",
+        "slg": ".000"
+    },
+    {
+        "batter": " J.P. Crawford",
+        "pitcher": " Mike Foltynewicz",
+        "plate_appearances": "5",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Renato Nunez",
+        "pitcher": " Jaime Garcia",
+        "plate_appearances": "3",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " A.J. Pollock",
+        "pitcher": " Jeremy Hellickson",
+        "plate_appearances": "4",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Salvador Perez",
+        "pitcher": " Carson Fulmer",
+        "plate_appearances": "4",
+        "avg": ".000",
+        "obp": ".250",
+        "slg": ".000"
+    },
+    {
+        "batter": " Victor Caratini",
+        "pitcher": " Junior Guerra",
+        "plate_appearances": "1",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Jesse Winker",
+        "pitcher": " Jake Odorizzi",
+        "plate_appearances": "6",
+        "avg": ".000",
+        "obp": ".167",
+        "slg": ".000"
+    },
+    {
+        "batter": " David Freitas",
+        "pitcher": " Carlos Carrasco",
+        "plate_appearances": "1",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Matt Olson",
+        "pitcher": " Lance McCullers Jr.",
+        "plate_appearances": "2",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Eugenio Suarez",
+        "pitcher": " Jake Odorizzi",
+        "plate_appearances": "6",
+        "avg": ".000",
+        "obp": ".167",
+        "slg": ".000"
+    },
+    {
+        "batter": " Giancarlo Stanton",
+        "pitcher": " Garrett Richards",
+        "plate_appearances": "2",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Christian Yelich",
+        "pitcher": " Jose Quintana",
+        "plate_appearances": "3",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Jon Jay",
+        "pitcher": " Carson Fulmer",
+        "plate_appearances": "3",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Jesus Sucre",
+        "pitcher": " David Price",
+        "plate_appearances": "3",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Gregory Polanco",
+        "pitcher": " Jack Flaherty",
+        "plate_appearances": "3",
+        "avg": ".000",
+        "obp": ".333",
+        "slg": ".000"
+    },
+    {
+        "batter": " Chad Pinder",
+        "pitcher": " Lance McCullers Jr.",
+        "plate_appearances": "1",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Joe Panik",
+        "pitcher": " Walker Buehler",
+        "plate_appearances": "1",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Joey Rickard",
+        "pitcher": " Francisco Liriano",
+        "plate_appearances": "3",
+        "avg": ".000",
+        "obp": ".667",
+        "slg": ".000"
+    },
+    {
+        "batter": " Rio Ruiz",
+        "pitcher": " Nick Pivetta",
+        "plate_appearances": "4",
+        "avg": ".000",
+        "obp": ".250",
+        "slg": ".000"
+    },
+    {
+        "batter": " Rajai Davis",
+        "pitcher": " Mike Leake",
+        "plate_appearances": "3",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Rene Rivera",
+        "pitcher": " Masahiro Tanaka",
+        "plate_appearances": "4",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Neil Walker",
+        "pitcher": " Garrett Richards",
+        "plate_appearances": "1",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Andrew Knapp",
+        "pitcher": " Mike Foltynewicz",
+        "plate_appearances": "12",
+        "avg": ".000",
+        "obp": ".083",
+        "slg": ".000"
+    },
+    {
+        "batter": " Nicky Delmonico",
+        "pitcher": " Trevor Oaks",
+        "plate_appearances": "3",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Robbie Grossman",
+        "pitcher": " Sal Romano",
+        "plate_appearances": "2",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Ronald Acuna Jr.",
+        "pitcher": " Nick Pivetta",
+        "plate_appearances": "3",
+        "avg": ".000",
+        "obp": ".333",
+        "slg": ".000"
+    },
+    {
+        "batter": " Alcides Escobar",
+        "pitcher": " Carson Fulmer",
+        "plate_appearances": "4",
+        "avg": ".000",
+        "obp": ".250",
+        "slg": ".000"
+    },
+    {
+        "batter": " Delino DeShields",
+        "pitcher": " Jaime Garcia",
+        "plate_appearances": "3",
+        "avg": ".000",
+        "obp": ".333",
+        "slg": ".000"
+    },
+    {
+        "batter": " Gleyber Torres",
+        "pitcher": " Garrett Richards",
+        "plate_appearances": "1",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Moises Sierra",
+        "pitcher": " Patrick Corbin",
+        "plate_appearances": "3",
+        "avg": ".000",
+        "obp": ".333",
+        "slg": ".000"
+    },
+    {
+        "batter": " Steven Souza Jr.",
+        "pitcher": " Jeremy Hellickson",
+        "plate_appearances": "2",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Drew Butera",
+        "pitcher": " Carson Fulmer",
+        "plate_appearances": "5",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Jordy Mercer",
+        "pitcher": " Jack Flaherty",
+        "plate_appearances": "2",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Max Kepler",
+        "pitcher": " Sal Romano",
+        "plate_appearances": "2",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Noel Cuevas",
+        "pitcher": " Wei-Yin Chen",
+        "plate_appearances": "2",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Trayce Thompson",
+        "pitcher": " Eric Skoglund",
+        "plate_appearances": "2",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Brian McCann",
+        "pitcher": " Daniel Mengden",
+        "plate_appearances": "3",
+        "avg": ".000",
+        "obp": ".333",
+        "slg": ".000"
+    },
+    {
+        "batter": " Dixon Machado",
+        "pitcher": " Andrew Cashner",
+        "plate_appearances": "4",
+        "avg": ".000",
+        "obp": ".250",
+        "slg": ".000"
+    },
+    {
+        "batter": " Yadiel Rivera",
+        "pitcher": " German Marquez",
+        "plate_appearances": "1",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Brandon Belt",
+        "pitcher": " Walker Buehler",
+        "plate_appearances": "3",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Christian Walker",
+        "pitcher": " Jeremy Hellickson",
+        "plate_appearances": "2",
+        "avg": ".000",
+        "obp": ".500",
+        "slg": ".000"
+    },
+    {
+        "batter": " Gerardo Parra",
+        "pitcher": " Wei-Yin Chen",
+        "plate_appearances": "2",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Corey Dickerson",
+        "pitcher": " Jack Flaherty",
+        "plate_appearances": "2",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Jace Peterson",
+        "pitcher": " Francisco Liriano",
+        "plate_appearances": "9",
+        "avg": ".000",
+        "obp": ".111",
+        "slg": ".000"
+    },
+    {
+        "batter": " Matt Davidson",
+        "pitcher": " Eric Skoglund",
+        "plate_appearances": "5",
+        "avg": ".000",
+        "obp": ".400",
+        "slg": ".000"
+    },
+    {
+        "batter": " Kyle Farmer",
+        "pitcher": " Johnny Cueto",
+        "plate_appearances": "2",
+        "avg": ".000",
+        "obp": ".500",
+        "slg": ".000"
+    },
+    {
+        "batter": " Colin Moran",
+        "pitcher": " Jack Flaherty",
+        "plate_appearances": "2",
+        "avg": ".000",
+        "obp": ".500",
+        "slg": ".000"
+    },
+    {
+        "batter": " Nick Williams",
+        "pitcher": " Mike Foltynewicz",
+        "plate_appearances": "5",
+        "avg": ".000",
+        "obp": ".200",
+        "slg": ".000"
+    },
+    {
+        "batter": " Mike Moustakas",
+        "pitcher": " Carson Fulmer",
+        "plate_appearances": "3",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Derek Fisher",
+        "pitcher": " Daniel Mengden",
+        "plate_appearances": "1",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Carlos Perez",
+        "pitcher": " Nick Pivetta",
+        "plate_appearances": "2",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Chris Owings",
+        "pitcher": " Jeremy Hellickson",
+        "plate_appearances": "2",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Tyler Flowers",
+        "pitcher": " Nick Pivetta",
+        "plate_appearances": "4",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Roberto Perez",
+        "pitcher": " Mike Leake",
+        "plate_appearances": "11",
+        "avg": ".000",
+        "obp": ".182",
+        "slg": ".000"
+    },
+    {
+        "batter": " Rob Refsnyder",
+        "pitcher": " David Price",
+        "plate_appearances": "13",
+        "avg": ".000",
+        "obp": ".154",
+        "slg": ".000"
+    },
+    {
+        "batter": " Tucker Barnhart",
+        "pitcher": " Jake Odorizzi",
+        "plate_appearances": "3",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Pedro Alvarez",
+        "pitcher": " Francisco Liriano",
+        "plate_appearances": "3",
+        "avg": ".000",
+        "obp": ".333",
+        "slg": ".000"
+    },
+    {
+        "batter": " Max Muncy",
+        "pitcher": " Chris Stratton",
+        "plate_appearances": "1",
+        "avg": ".000",
+        "obp": "1.000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Jose Osuna",
+        "pitcher": " Jack Flaherty",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Charlie Culberson",
+        "pitcher": " Nick Pivetta",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " David Dahl",
+        "pitcher": " Wei-Yin Chen",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Evan Longoria",
+        "pitcher": " Walker Buehler",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Jett Bandy",
+        "pitcher": " Jose Quintana",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Cam Gallagher",
+        "pitcher": " Carson Fulmer",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Joey Wendle",
+        "pitcher": " David Price",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Greg Bird",
+        "pitcher": " Garrett Richards",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Ryan Goins",
+        "pitcher": " Carson Fulmer",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Andrew Stevenson",
+        "pitcher": " Patrick Corbin",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Drew Butera",
+        "pitcher": " Dylan Covey",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Tyler Austin",
+        "pitcher": " Garrett Richards",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Avisail Garcia",
+        "pitcher": " Trevor Oaks",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Elias Diaz",
+        "pitcher": " Jack Flaherty",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Tony Wolters",
+        "pitcher": " Wei-Yin Chen",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Josh Harrison",
+        "pitcher": " Jack Flaherty",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Raul Mondesi",
+        "pitcher": " Dylan Covey",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Adam Eaton",
+        "pitcher": " Patrick Corbin",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Kevan Smith",
+        "pitcher": " Trevor Oaks",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Eric Thames",
+        "pitcher": " Jose Quintana",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Deven Marrero",
+        "pitcher": " Jeremy Hellickson",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Breyvic Valera",
+        "pitcher": " Johnny Cueto",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Allen Cordoba",
+        "pitcher": " Jason Vargas",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Boog Powell",
+        "pitcher": " Lance McCullers Jr.",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Michael Conforto",
+        "pitcher": " Joey Lucchesi",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Adam Engel",
+        "pitcher": " Trevor Oaks",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Mac Williamson",
+        "pitcher": " Walker Buehler",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Gorkys Hernandez",
+        "pitcher": " Walker Buehler",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Trayce Thompson",
+        "pitcher": " Trevor Oaks",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Austin Romine",
+        "pitcher": " Garrett Richards",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Brandon Drury",
+        "pitcher": " Garrett Richards",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Tomas Nido",
+        "pitcher": " Joey Lucchesi",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Welington Castillo",
+        "pitcher": " Eric Skoglund",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Cameron Maybin",
+        "pitcher": " German Marquez",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Brandon Guyer",
+        "pitcher": " Mike Leake",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Daniel Palka",
+        "pitcher": " Eric Skoglund",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " David Freese",
+        "pitcher": " Jack Flaherty",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Juan Centeno",
+        "pitcher": " Jaime Garcia",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Erik Gonzalez",
+        "pitcher": " Mike Leake",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Victor Reyes",
+        "pitcher": " Andrew Cashner",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Omar Narvaez",
+        "pitcher": " Trevor Oaks",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Travis d'Arnaud",
+        "pitcher": " Joey Lucchesi",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Tyler O'Neill",
+        "pitcher": " Trevor Williams",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Miguel Sano",
+        "pitcher": " Sal Romano",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Rosell Herrera",
+        "pitcher": " Jake Odorizzi",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Harrison Bader",
+        "pitcher": " Trevor Williams",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Tzu-Wei Lin",
+        "pitcher": " Yonny Chirinos",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Jon Jay",
+        "pitcher": " Dylan Covey",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Jason Castro",
+        "pitcher": " Sal Romano",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " John Hicks",
+        "pitcher": " Andrew Cashner",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Ronald Guzman",
+        "pitcher": " Jaime Garcia",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Sandy Leon",
+        "pitcher": " Yonny Chirinos",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Ronald Torreyes",
+        "pitcher": " Garrett Richards",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Ryan McMahon",
+        "pitcher": " Wei-Yin Chen",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Mallex Smith",
+        "pitcher": " David Price",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Marco Hernandez",
+        "pitcher": " Yonny Chirinos",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Alex Dickerson",
+        "pitcher": " Jason Vargas",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " John Ryan Murphy",
+        "pitcher": " Jeremy Hellickson",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Jorge Polanco",
+        "pitcher": " Sal Romano",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Abraham Almonte",
+        "pitcher": " Carson Fulmer",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Bubba Starling",
+        "pitcher": " Carson Fulmer",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Garrett Cooper",
+        "pitcher": " German Marquez",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Drew Robinson",
+        "pitcher": " Jaime Garcia",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Max Moroff",
+        "pitcher": " Jack Flaherty",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Tyler Saladino",
+        "pitcher": " Trevor Oaks",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Clint Frazier",
+        "pitcher": " Garrett Richards",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Mac Williamson",
+        "pitcher": " Alex Wood",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Matt Wieters",
+        "pitcher": " Patrick Corbin",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Alex Blandino",
+        "pitcher": " Jake Odorizzi",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Tom Murphy",
+        "pitcher": " Wei-Yin Chen",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " T.J. Rivera",
+        "pitcher": " Joey Lucchesi",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Ryan LaMarre",
+        "pitcher": " Sal Romano",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Justin Bour",
+        "pitcher": " German Marquez",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Alen Hanson",
+        "pitcher": " Walker Buehler",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Matt Szczur",
+        "pitcher": " Jason Vargas",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Francisco Pena",
+        "pitcher": " Trevor Williams",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Dustin Pedroia",
+        "pitcher": " Yonny Chirinos",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Billy McKinney",
+        "pitcher": " Garrett Richards",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Adrian Gonzalez",
+        "pitcher": " Joey Lucchesi",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Bryan Holaday",
+        "pitcher": " German Marquez",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " David Wright",
+        "pitcher": " Joey Lucchesi",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Chance Sisco",
+        "pitcher": " Francisco Liriano",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Brian Goodwin",
+        "pitcher": " Patrick Corbin",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Justin Turner",
+        "pitcher": " Chris Stratton",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " JT Riddle",
+        "pitcher": " German Marquez",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Austin Jackson",
+        "pitcher": " Walker Buehler",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Byron Buxton",
+        "pitcher": " Sal Romano",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Ryan Goins",
+        "pitcher": " Dylan Covey",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Hunter Renfroe",
+        "pitcher": " Jason Vargas",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Breyvic Valera",
+        "pitcher": " Chris Stratton",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Jose Reyes",
+        "pitcher": " Joey Lucchesi",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Jorge Bonifacio",
+        "pitcher": " Carson Fulmer",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Carlos Asuaje",
+        "pitcher": " Jason Vargas",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Jake Smolinski",
+        "pitcher": " Lance McCullers Jr.",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Max Stassi",
+        "pitcher": " Daniel Mengden",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Austin Slater",
+        "pitcher": " Alex Wood",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Peter Bourjos",
+        "pitcher": " Nick Pivetta",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Kevin Plawecki",
+        "pitcher": " Joey Lucchesi",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Sean Rodriguez",
+        "pitcher": " Jack Flaherty",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Nicky Delmonico",
+        "pitcher": " Eric Skoglund",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Rafael Bautista",
+        "pitcher": " Patrick Corbin",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Max Muncy",
+        "pitcher": " Johnny Cueto",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Matt Adams",
+        "pitcher": " Patrick Corbin",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " David Bote",
+        "pitcher": " Junior Guerra",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    },
+    {
+        "batter": " Brandon Nimmo",
+        "pitcher": " Joey Lucchesi",
+        "plate_appearances": "0",
+        "avg": ".000",
+        "obp": ".000",
+        "slg": ".000"
+    }
+]
