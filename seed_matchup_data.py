@@ -8,6 +8,11 @@ cur = con.cursor()
 print("Opened database successfully")
 
 
+# AT https://swishanalytics.com/optimus/mlb/batter-vs-pitcher-stats
+# rows = $("#stat-table tbody tr")
+# data = $.map(rows, function(e) { return {batter: $(e).find('td span.batter-name').text(), pitcher: $(e).find('td span.pitcher-name').text(), plate_appearances: $(e).find('td:nth-child(3)').text(), avg: $(e).find('td:nth-child(12)').text(), obp: $(e).find('td:nth-child(13)').text(), slg: $(e).find('td:nth-child(14)').text()}})
+
+
 # CREATE TABLE matchups (MatchupID INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, BatterID INTEGER, PitcherID INTEGER, OPS NUMERIC)
 
 for file in os.listdir("./matchup_data"):
@@ -26,14 +31,6 @@ for file in os.listdir("./matchup_data"):
                 cur.execute("INSERT INTO matchups (BatterID,PitcherID,OPS) VALUES (?,?,?)",(
                     batter_record['PlayerID'], pitcher_record['PlayerID'], ops
                 ))
-                # print("{} has ops of {} vs {}".format(batter, ops, pitcher))
-
-
-# for game in game_data:
-#     c.execute("INSERT INTO games (GameID,Day,DateTime,AwayTeamID,HomeTeamID) VALUES (?,?,?,?,?)",(
-#         game['GameID'], game['Day'], game['DateTime'], game['AwayTeamID'], game['HomeTeamID']
-#     ))
-
 
 con.commit()
 con.close
