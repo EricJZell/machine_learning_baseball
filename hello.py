@@ -24,20 +24,45 @@ def index():
     #     game["Time"] = datetime.strptime(game["DateTime"], '%Y-%m-%dT%H:%M:%S').strftime('%-I:%M')
     return render_template("index.html", name="Eric", games=games, datetime=datetime)
 
-@app.route('/game/<int:game_id>')
+
+@app.route('/game/<int:game_id>', methods=["GET", "POST"])
 def game(game_id):
     con = sqlite3.connect('mlb_stats.db')
     con.row_factory = sqlite3.Row
     cur = con.cursor()
     cur.execute("SELECT GameID, DateTime, "
-        "HomeTeam.WikipediaLogoUrl as HomeTeamLogo, HomeTeam.Name as HomeTeamName, "
-        "AwayTeam.WikipediaLogoUrl as AwayTeamLogo, AwayTeam.Name as AwayTeamName "
+        "HomeTeam.WikipediaLogoUrl as HomeTeamLogo, HomeTeam.Name as HomeTeamName, HomeTeam.TeamID as HomeTeamID, "
+        "AwayTeam.WikipediaLogoUrl as AwayTeamLogo, AwayTeam.Name as AwayTeamName, AwayTeam.TeamID as AwayTeamID "
         "FROM games "
         "JOIN Teams as HomeTeam ON HomeTeamID = HomeTeam.TeamID "
         "JOIN Teams as AwayTeam ON AwayTeamID = AwayTeam.TeamID "
-        "WHERE GameID=? ",([game_id]))
+        "WHERE GameID=?",([game_id]))
     game = cur.fetchone()
-    return render_template("game.html", game=game)
+
+    cur.execute("SELECT PlayerID, Name FROM players WHERE Position='SP' AND TeamID=?", ([game["HomeTeamID"]]))
+    home_pitchers = cur.fetchall()
+    home_pitcher_matchups = None
+
+    cur.execute("SELECT PlayerID, Name FROM players WHERE Position='SP' AND TeamID=?", ([game["AwayTeamID"]]))
+    away_pitchers = cur.fetchall()
+    away_pitcher_matchups = None
+
+    if request.method == "POST":
+        away_pitcher_id = request.form.get("away-pitcher")
+        home_pitcher_id = request.form.get("home-pitcher")
+        cur.execute("SELECT BatterID, players.Name AS Batter, \"" + away_pitcher_id + "\" AS OPS "
+            "FROM matchup_predictions "
+            "JOIN players ON players.PlayerID=BatterID "
+            "WHERE players.TeamID=?", ([game["HomeTeamID"]]))
+        away_pitcher_matchups = cur.fetchall()
+        cur.execute("SELECT BatterID, players.Name AS Batter, \"" + home_pitcher_id + "\" AS OPS "
+            "FROM matchup_predictions "
+            "JOIN players ON players.PlayerID=BatterID "
+            "WHERE players.TeamID=?", ([game["AwayTeamID"]]))
+        home_pitcher_matchups = cur.fetchall()
+
+    return render_template("game.html", game=game, home_pitchers=home_pitchers, away_pitchers=away_pitchers,
+        datetime=datetime, home_pitcher_matchups=home_pitcher_matchups, away_pitcher_matchups=away_pitcher_matchups)
 
 if __name__ == "__main__":
     app.run()

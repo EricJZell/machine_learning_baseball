@@ -1,20 +1,22 @@
 {% extends "layout.html" %}
 
 {% block main %}
-    <div>Today's Major League Baseball Games:</div>
-    {% for game in games %}
-        <div>
-          <h6>{{datetime.strptime(game["DateTime"], '%Y-%m-%dT%H:%M:%S').strftime('%-I:%M')}}</h3>
-          <h6>
-            <img src='{{game["AwayTeamLogo"]}}' alt="Away Logo" height="40" width="40">
-            {{game["AwayTeamName"]}}
-          </h6>
-          <h6>
-            <img src='{{game["HomeTeamLogo"]}}' alt="Home Logo" height="40" width="40">
-            {{game["HomeTeamName"]}}
-          </h6>
-          <a href='{{"/game/{}".format(game["GameID"])}}'>Analyze Matchups</a>
-        </div>
-    {% endfor %}
+    <h6>Today's Major League Baseball Games:</h6>
+    <ul>
+      {% for game in games %}
+          <li class='game'>
+            <h6>{{datetime.strptime(game["DateTime"], '%Y-%m-%dT%H:%M:%S').strftime('%-I:%M %p ET')}}</h6>
+            <h6>
+              <img src='{{game["AwayTeamLogo"]}}' alt="Away Logo" height="40" width="40">
+              {{game["AwayTeamName"]}}
+            </h6>
+            <h6>
+              <img src='{{game["HomeTeamLogo"]}}' alt="Home Logo" height="40" width="40">
+              {{game["HomeTeamName"]}}
+            </h6>
+            <a class="button" href='{{"/game/{}".format(game["GameID"])}}'>Analyze Matchups</a>
+          </li>
+      {% endfor %}
+    </ul>
 
 {% endblock %}

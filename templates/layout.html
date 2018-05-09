@@ -3,10 +3,11 @@
     <head>
         <!-- Required meta tags -->
         <meta charset="utf-8"/>
-        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <!-- documentation at http://getbootstrap.com/docs/4.0/, alternative themes at https://bootswatch.com/4-alpha/ -->
         <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" rel="stylesheet"/>
         <link href="/static/styles.css" rel="stylesheet"/>
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.12/css/all.css" integrity="sha384-G0fIWCsCzJIMAVNQPfjH08cyYaUtMwjJwqiRKxxE/rx96Uroj1BtIQ6MLJuheaO9" crossorigin="anonymous">
         <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
         <script src="/static/scripts.js"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js"></script>
@@ -15,7 +16,7 @@
     </head>
     <body>
         <nav class="navbar navbar-expand-md navbar-light bg-light border">
-            <a class="navbar-brand" href="/">Machine Learning Baseball</a>
+            <a class="navbar-brand" href="/"><span class="red">M</span>achine <span class='red'>L</span>earning <span class='red'>B</span>aseball</a>
         </nav>
         {% if get_flashed_messages() %}
             <header>

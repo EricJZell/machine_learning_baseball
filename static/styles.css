@@ -1,3 +1,55 @@
 .navbar-brand {
+  font-size: large;
+}
+
+span.red {
   font-size: x-large;
+  color: red;
+}
+
+body {
+  background-color: rgb(237, 238, 240);
+}
+main .form-control
+{
+    /* center form controls */
+    display: inline-block;
+
+    /* override Bootstrap's 100% width for form controls */
+    width: auto;
+}
+
+main
+{
+    /* scroll horizontally as needed */
+    overflow-x: auto;
+
+    /* center contents */
+    text-align: center;
+}
+
+h6 {
+  margin: 1.5em;
+}
+
+li.game {
+  width: 25%;
+  display: inline-block;
+  border: 2px solid gray;
+  padding: 4px;
+  margin: 8px;
+  list-style: none;
+  background-color: white;
+  text-align: left;
+}
+
+table
+{
+    text-align: left;
+}
+
+@media screen and (max-width:1000px) {
+  li.game {
+    width:90%; /* The width is 100%, when the viewport is 800px or smaller */
+  }
 }

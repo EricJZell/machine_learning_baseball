@@ -1,4 +1,66 @@
 {% extends "layout.html" %}
 {% block main %}
-  <h1>Hello {{game["GameID"]}}</h1>
+  <div>
+    <h6>
+      <img src='{{game["AwayTeamLogo"]}}' alt="Away Logo" height="40" width="40">
+      {{game["AwayTeamName"]}}
+    </h6>
+    <i class="fas fa-at fa-2x"></i>
+    <h6>
+      <img src='{{game["HomeTeamLogo"]}}' alt="Home Logo" height="40" width="40">
+      {{game["HomeTeamName"]}}
+    </h6>
+    <h6>{{datetime.strptime(game["DateTime"], '%Y-%m-%dT%H:%M:%S').strftime('%A, %B %-d, %Y at %-I:%M %p ET')}}</h3>
+  </div>
+
+  <form action="/game/{{game['GameID']}}" method="post">
+      <div class="form-group">
+          <select class="form-control" name="away-pitcher" required>
+              <option disabled selected value>{{game["AwayTeamName"]}} Pitchers</option>
+              {% for pitcher in away_pitchers %}
+                  <option value="{{ pitcher['PlayerID'] }}">{{ pitcher['Name'] }}</option>
+              {% endfor %}
+          </select>
+      </div>
+      <div class="form-group">
+          <select class="form-control" name="home-pitcher" required>
+              <option disabled selected value>{{game["HomeTeamName"]}} Pitchers</option>
+              {% for pitcher in home_pitchers %}
+                  <option value="{{ pitcher['PlayerID'] }}">{{ pitcher['Name'] }}</option>
+              {% endfor %}
+          </select>
+      </div>
+      <button class="btn btn-primary" type="submit">Analyze Matchups</button>
+  </form>
+
+  {% if away_pitcher_matchups %}
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Batter</th><th>Predicted OPS</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for matchup in away_pitcher_matchups %}
+                <tr>
+                    <td>{{ matchup['Batter'] }}</td><td>{{ matchup['OPS'] }}</td>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Batter</th><th>Predicted OPS</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for matchup in home_pitcher_matchups %}
+                <tr>
+                    <td>{{ matchup['Batter'] }}</td><td>{{ matchup['OPS'] }}</td>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+  {% endif %}
 {% endblock %}
