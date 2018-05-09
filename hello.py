@@ -5,9 +5,14 @@ import sqlite3
 app = Flask(__name__)
 app.config["TEMPLATES_AUTO_RELOAD"] = True
 
-
 @app.route("/")
-def index():
+@app.route("/<day>")
+def index(day=str(date.today())):
+    date_object = datetime.strptime(day, '%Y-%m-%d')
+    next_date_object = date_object + timedelta(days=1)
+    next_day = datetime.strftime(next_date_object, '%Y-%m-%d')
+    previous_date_object = date_object - timedelta(days=1)
+    previous_day = datetime.strftime(previous_date_object, '%Y-%m-%d')
     con = sqlite3.connect('mlb_stats.db')
     con.row_factory = sqlite3.Row
     cur = con.cursor()
@@ -18,11 +23,11 @@ def index():
         "JOIN Teams as HomeTeam ON HomeTeamID = HomeTeam.TeamID "
         "JOIN Teams as AwayTeam ON AwayTeamID = AwayTeam.TeamID "
         "WHERE strftime('%Y-%m-%d', Day)=? "
-        "ORDER BY DateTime ASC",([str(date.today())]))
+        "ORDER BY DateTime ASC",([day]))
     games = cur.fetchall()
-    # for game in games:
-    #     game["Time"] = datetime.strptime(game["DateTime"], '%Y-%m-%dT%H:%M:%S').strftime('%-I:%M')
-    return render_template("index.html", name="Eric", games=games, datetime=datetime)
+
+    return render_template("index.html", day=day, next_day=next_day, previous_day=previous_day,
+        games=games, datetime=datetime)
 
 
 @app.route('/game/<int:game_id>', methods=["GET", "POST"])

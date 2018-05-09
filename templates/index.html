@@ -1,7 +1,11 @@
 {% extends "layout.html" %}
 
 {% block main %}
-    <h6>Today's Major League Baseball Games:</h6>
+  <h6>
+    <a class='previous' href='/{{previous_day}}'>Previous Day</a>
+    Majore League Baseball Games for {{day}}:
+    <a class='next' href='/{{next_day}}'>Next Day</a>
+  </h6>
     <ul>
       {% for game in games %}
           <li class='game'>

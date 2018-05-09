@@ -48,6 +48,14 @@ table
     text-align: left;
 }
 
+a.previous {
+  float: left;
+}
+
+a.next {
+  float: right;
+}
+
 @media screen and (max-width:1000px) {
   li.game {
     width:90%; /* The width is 100%, when the viewport is 800px or smaller */
