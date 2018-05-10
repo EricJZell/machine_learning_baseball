@@ -58,12 +58,12 @@ def game(game_id):
         cur.execute("SELECT BatterID, players.Name AS Batter, \"" + away_pitcher_id + "\" AS OPS "
             "FROM matchup_predictions "
             "JOIN players ON players.PlayerID=BatterID "
-            "WHERE players.TeamID=?", ([game["HomeTeamID"]]))
+            "WHERE players.TeamID=? ORDER BY OPS DESC", ([game["HomeTeamID"]]))
         away_pitcher_matchups = cur.fetchall()
         cur.execute("SELECT BatterID, players.Name AS Batter, \"" + home_pitcher_id + "\" AS OPS "
             "FROM matchup_predictions "
             "JOIN players ON players.PlayerID=BatterID "
-            "WHERE players.TeamID=?", ([game["AwayTeamID"]]))
+            "WHERE players.TeamID=? ORDER BY OPS DESC", ([game["AwayTeamID"]]))
         home_pitcher_matchups = cur.fetchall()
 
     return render_template("game.html", game=game, home_pitchers=home_pitchers, away_pitchers=away_pitchers,
