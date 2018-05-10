@@ -54,10 +54,17 @@ def game(game_id):
         "WHERE Position='SP' AND TeamID=?", ([game["AwayTeamID"]]))
     away_pitchers = cur.fetchall()
     matchups = {}
+    selected_pitchers = {}
 
     if request.method == "POST":
         away_pitcher_id = request.form.get("away-pitcher")
         home_pitcher_id = request.form.get("home-pitcher")
+        cur.execute("SELECT Name FROM players WHERE PlayerID=?", ([away_pitcher_id]))
+        away_pitcher = cur.fetchone()
+        selected_pitchers["away"] = away_pitcher["Name"]
+        cur.execute("SELECT Name FROM players WHERE PlayerID=?", ([home_pitcher_id]))
+        home_pitcher = cur.fetchone()
+        selected_pitchers["home"] = home_pitcher["Name"]
         cur.execute("SELECT BatterID, players.Name AS Batter, \"" + away_pitcher_id + "\" AS OPS "
             "FROM matchup_predictions "
             "JOIN players ON players.PlayerID=BatterID "
@@ -70,7 +77,7 @@ def game(game_id):
         matchups["home_pitcher_matchups"] = cur.fetchall()
 
     return render_template("game.html", game=game, home_pitchers=home_pitchers, away_pitchers=away_pitchers,
-        datetime=datetime, matchups=matchups)
+        datetime=datetime, matchups=matchups, selected_pitchers=selected_pitchers)
 
 if __name__ == "__main__":
     app.run()

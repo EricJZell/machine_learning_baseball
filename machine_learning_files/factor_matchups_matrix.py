@@ -1,4 +1,6 @@
-
+# Note: The steps in this file are based on exercise files provided by:
+# https://www.lynda.com/Data-Science-tutorials/Machine-Learning-Fundamentals-Learning-Make-Recommendations/563030-2.html
+# "Machine Learning & AI Foundations: Recommendations"
 # FIRST
 # $ pip3 install numpy
 # $ pip3 install pandas
@@ -29,3 +31,6 @@ predicted_matchups_df = pd.DataFrame(index=matchups_df.index,
                                     columns=matchups_df.columns,
                                     data=predicted_matchups)
 predicted_matchups_df.to_csv("predicted_matchups.csv")
+# To Convert the generated csv file to an sqlite table:
+# FIRST $ pip3 install csv-to-sqlite
+# THEN $ csv-to-sqlite -f matchup_predictions.csv -o mlb_stats.db

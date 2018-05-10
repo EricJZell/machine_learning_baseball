@@ -37,6 +37,10 @@
     <div class="container">
       <div class="row">
         <div class="col-sm-6">
+          <h6>
+            <img src='{{game["AwayTeamLogo"]}}' alt="Away Logo" height="40" width="40">
+            {{selected_pitchers["away"]}} predicted matchups:
+          </h6>
           <table class="table table-striped">
               <thead>
                   <tr>
@@ -46,13 +50,21 @@
               <tbody>
                   {% for matchup in matchups["away_pitcher_matchups"] %}
                       <tr>
-                          <td>{{ matchup['Batter'] }}</td><td>{{ matchup['OPS'] }}</td>
+                          <td>
+                            <img src='{{game["HomeTeamLogo"]}}' alt="Home Logo" height="32" width="32">
+                            {{ matchup['Batter'] }}
+                          </td>
+                          <td>{{ matchup['OPS'] }}</td>
                       </tr>
                   {% endfor %}
               </tbody>
           </table>
         </div>
         <div class="col-sm-6">
+          <h6>
+            <img src='{{game["HomeTeamLogo"]}}' alt="Home Logo" height="40" width="40">
+            {{selected_pitchers["home"]}} predicted matchups:
+          </h6>
           <table class="table table-striped">
               <thead>
                   <tr>
@@ -62,7 +74,11 @@
               <tbody>
                   {% for matchup in matchups["home_pitcher_matchups"] %}
                       <tr>
-                          <td>{{ matchup['Batter'] }}</td><td>{{ matchup['OPS'] }}</td>
+                          <td>
+                            <img src='{{game["AwayTeamLogo"]}}' alt="Away Logo" height="32" width="32">
+                            {{ matchup['Batter'] }}
+                          </td>
+                          <td>{{ matchup['OPS'] }}</td>
                       </tr>
                   {% endfor %}
               </tbody>

@@ -1,6 +1,8 @@
+# Note: This matrix factorization utilities file is taken from exercise files provided by:
+#  https://www.lynda.com/Data-Science-tutorials/Machine-Learning-Fundamentals-Learning-Make-Recommendations/563030-2.html
+# "Machine Learning & AI Foundations: Recommendations"
 import numpy as np
 from scipy.optimize import fmin_cg
-
 
 def normalize_ratings(ratings):
     """
