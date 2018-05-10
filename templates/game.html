@@ -33,34 +33,42 @@
       <button class="btn btn-primary" type="submit">Analyze Matchups</button>
   </form>
 
-  {% if away_pitcher_matchups %}
-    <table class="table table-striped">
-        <thead>
-            <tr>
-                <th>Batter</th><th>Predicted OPS</th>
-            </tr>
-        </thead>
-        <tbody>
-            {% for matchup in away_pitcher_matchups %}
-                <tr>
-                    <td>{{ matchup['Batter'] }}</td><td>{{ matchup['OPS'] }}</td>
-                </tr>
-            {% endfor %}
-        </tbody>
-    </table>
-    <table class="table table-striped">
-        <thead>
-            <tr>
-                <th>Batter</th><th>Predicted OPS</th>
-            </tr>
-        </thead>
-        <tbody>
-            {% for matchup in home_pitcher_matchups %}
-                <tr>
-                    <td>{{ matchup['Batter'] }}</td><td>{{ matchup['OPS'] }}</td>
-                </tr>
-            {% endfor %}
-        </tbody>
-    </table>
+  {% if matchups %}
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-6">
+          <table class="table table-striped">
+              <thead>
+                  <tr>
+                      <th>Batter</th><th>Predicted OPS</th>
+                  </tr>
+              </thead>
+              <tbody>
+                  {% for matchup in matchups["away_pitcher_matchups"] %}
+                      <tr>
+                          <td>{{ matchup['Batter'] }}</td><td>{{ matchup['OPS'] }}</td>
+                      </tr>
+                  {% endfor %}
+              </tbody>
+          </table>
+        </div>
+        <div class="col-sm-6">
+          <table class="table table-striped">
+              <thead>
+                  <tr>
+                      <th>Batter</th><th>Predicted OPS</th>
+                  </tr>
+              </thead>
+              <tbody>
+                  {% for matchup in matchups["home_pitcher_matchups"] %}
+                      <tr>
+                          <td>{{ matchup['Batter'] }}</td><td>{{ matchup['OPS'] }}</td>
+                      </tr>
+                  {% endfor %}
+              </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
   {% endif %}
 {% endblock %}

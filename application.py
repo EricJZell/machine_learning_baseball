@@ -44,13 +44,16 @@ def game(game_id):
         "WHERE GameID=?",([game_id]))
     game = cur.fetchone()
 
-    cur.execute("SELECT PlayerID, Name FROM players WHERE Position='SP' AND TeamID=?", ([game["HomeTeamID"]]))
+    cur.execute("SELECT DISTINCT PlayerID, Name FROM players "
+        "JOIN matchups ON PlayerID=matchups.PitcherID "
+        "WHERE Position='SP' AND TeamID=?", ([game["HomeTeamID"]]))
     home_pitchers = cur.fetchall()
-    home_pitcher_matchups = None
 
-    cur.execute("SELECT PlayerID, Name FROM players WHERE Position='SP' AND TeamID=?", ([game["AwayTeamID"]]))
+    cur.execute("SELECT DISTINCT PlayerID, Name FROM players "
+        "JOIN matchups ON PlayerID=matchups.PitcherID "
+        "WHERE Position='SP' AND TeamID=?", ([game["AwayTeamID"]]))
     away_pitchers = cur.fetchall()
-    away_pitcher_matchups = None
+    matchups = {}
 
     if request.method == "POST":
         away_pitcher_id = request.form.get("away-pitcher")
@@ -59,15 +62,15 @@ def game(game_id):
             "FROM matchup_predictions "
             "JOIN players ON players.PlayerID=BatterID "
             "WHERE players.TeamID=? ORDER BY OPS DESC", ([game["HomeTeamID"]]))
-        away_pitcher_matchups = cur.fetchall()
+        matchups["away_pitcher_matchups"] = cur.fetchall()
         cur.execute("SELECT BatterID, players.Name AS Batter, \"" + home_pitcher_id + "\" AS OPS "
             "FROM matchup_predictions "
             "JOIN players ON players.PlayerID=BatterID "
             "WHERE players.TeamID=? ORDER BY OPS DESC", ([game["AwayTeamID"]]))
-        home_pitcher_matchups = cur.fetchall()
+        matchups["home_pitcher_matchups"] = cur.fetchall()
 
     return render_template("game.html", game=game, home_pitchers=home_pitchers, away_pitchers=away_pitchers,
-        datetime=datetime, home_pitcher_matchups=home_pitcher_matchups, away_pitcher_matchups=away_pitcher_matchups)
+        datetime=datetime, matchups=matchups)
 
 if __name__ == "__main__":
     app.run()

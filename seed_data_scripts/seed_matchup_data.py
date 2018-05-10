@@ -18,7 +18,7 @@ print("Opened database successfully")
 for file in os.listdir("./matchup_data"):
     matchup_data = json.load(open(os.path.join("./matchup_data", file)))
     for matchup in matchup_data:
-        if int(matchup['plate_appearances']) > 5:
+        if int(matchup['plate_appearances']) > 4:
             batter = matchup['batter'].strip()
             cur.execute("SELECT PlayerID FROM players WHERE Name=?", ([batter]))
             batter_record = cur.fetchone()
