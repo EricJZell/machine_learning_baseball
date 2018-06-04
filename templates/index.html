@@ -2,10 +2,10 @@
 
 {% block main %}
   <h6>
-    <a class='previous' href='/{{previous_day}}'>Previous Day</a>
-    Majore League Baseball Games for {{day}}:
-    <a class='next' href='/{{next_day}}'>Next Day</a>
+    Major League Baseball Games for {{day}}:
   </h6>
+  <a class='previous' href='/{{previous_day}}'>Previous Day</a>
+  <a class='next' href='/{{next_day}}'>Next Day</a>
     <ul>
       {% for game in games %}
           <li class='game'>
