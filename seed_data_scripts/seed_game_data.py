@@ -10,10 +10,13 @@ print("Opened database successfully")
 # CREATE TABLE games (GameID INTEGER PRIMARY KEY NOT NULL, Day DATETIME, DateTime DATETIME, AwayTeamID INTEGER, HomeTeamID INTEGER, AwayTeamPitcherID INTEGER, HomeTeamPitcherID INTEGER)
 
 # load raw game data from the file 'games.json'
-game_data = json.load(open('games.json'))
+game_data = json.load(open('seed_data_json_files/games.json'))
 
 # Insert records into the games table
 for game in game_data:
+    if game['DateTime'] is None:
+        game['DateTime'] = game['Day']
+
     c.execute("INSERT INTO games (GameID,Day,DateTime,AwayTeamID,HomeTeamID) VALUES (?,?,?,?,?)",(
         game['GameID'], game['Day'], game['DateTime'], game['AwayTeamID'], game['HomeTeamID']
     ))
