@@ -2,18 +2,10 @@
 # Eric Zell CS50 Final Project Spring 2018
 
 Machine Learing Baseball is a web application that a user can visit to get predicted pitcher vs. batter
-mathup statistics for any Major League Baseball game on any given day. It is built with pyton and flask,
-so it can be ran directly from the CS50 IDE.
+mathup statistics for any Major League Baseball game on any given day. It is built with python and flask,
+so it can be ran directly from the CS50 IDE by executing `$ flask run`
 
-First, switch to the project's directory:
-
-`cd ~/workspace/project/machine_learning_baseball/`
-
-And then execute:
-
-`flask run`
-
-It should give you a URL where the application is running. Visit that URL in your browser.
+The application is now also deployed at https://machine-learning-baseball.herokuapp.com/
 
 The landing page, or the index page, displays a list of major league baseball games to be played for
 the current day. The day can be changed either by clicking the `Next Day` or `Previous Day` links, or by
