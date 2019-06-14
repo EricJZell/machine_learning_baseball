@@ -5,7 +5,7 @@ Machine Learing Baseball is a web application that a user can visit to get predi
 mathup statistics for any Major League Baseball game on any given day. It is built with python and flask,
 so it can be ran directly from the CS50 IDE by executing `$ flask run`
 
-The application is now also deployed at https://machine-learning-baseball.herokuapp.com/
+The application is now also deployed at https://machine-learning-baseball.herokuapp.com/2018-06-13
 
 The landing page, or the index page, displays a list of major league baseball games to be played for
 the current day. The day can be changed either by clicking the `Next Day` or `Previous Day` links, or by
